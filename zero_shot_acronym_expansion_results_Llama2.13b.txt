@@ -1,0 +1,3502 @@
+Index                 : 0
+Acronym               : FM
+Predicted             : FM → Feather Meal
+Actual (Ground Truth) : FM → ['feather meal']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 1
+Acronym               : ARV
+Predicted             : ARV → Avian Reovirus.
+Actual (Ground Truth) : ARV → ['avian reovirus']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 2
+Acronym               : EPIC
+Predicted             : EPIC → European Prospective Investigation into Cancer and Nutrition
+Actual (Ground Truth) : EPIC → ['european prospective investigation into cancer and nutrition']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 3
+Acronym               : CT
+Predicted             : CT → Pneumostoma volume
+Actual (Ground Truth) : CT → ['closure time']
+📏 Cosine Similarity   : 0.078
+🎯 Match               : ❌
+================================================================================
+Index                 : 4
+Acronym               : SPTs
+Predicted             : SPTs → Skin Prick Tests
+Actual (Ground Truth) : SPTs → ['skin prick tests']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 5
+Acronym               : SEM
+Predicted             : SEM → Scanning Electron Microscopy
+Actual (Ground Truth) : SEM → ['scanning electron micrographs']
+📏 Cosine Similarity   : 0.703
+🎯 Match               : ✔️
+================================================================================
+Index                 : 6
+Acronym               : MA
+Predicted             : MA → Mouse Antibody
+Actual (Ground Truth) : MA → ['microagglutination']
+📏 Cosine Similarity   : 0.324
+🎯 Match               : ❌
+================================================================================
+Index                 : 7
+Acronym               : pt
+Predicted             : pt → Polymerase Chain Reaction
+Actual (Ground Truth) : pt → ['plastid']
+📏 Cosine Similarity   : 0.220
+🎯 Match               : ❌
+================================================================================
+Index                 : 8
+Acronym               : TC
+Predicted             : TC → Thoracic Carcinoma
+Actual (Ground Truth) : TC → ['thyroid carcinoma']
+📏 Cosine Similarity   : 0.622
+🎯 Match               : ❌
+================================================================================
+Index                 : 9
+Acronym               : Rmax
+Predicted             : Rmax → Relative Maximum Specific Rate Constant
+Actual (Ground Truth) : Rmax → ['removal rate']
+📏 Cosine Similarity   : 0.289
+🎯 Match               : ❌
+================================================================================
+Index                 : 10
+Acronym               : CT
+Predicted             : CT → Computed Tomography
+Actual (Ground Truth) : CT → ['conventional treatment']
+📏 Cosine Similarity   : 0.200
+🎯 Match               : ❌
+================================================================================
+Index                 : 11
+Acronym               : PPP
+Predicted             : PPP → Polycythemia Vera
+Actual (Ground Truth) : PPP → ['primary proliferative polycythaemia']
+📏 Cosine Similarity   : 0.548
+🎯 Match               : ❌
+================================================================================
+Index                 : 12
+Acronym               : MI
+Predicted             : MI → Microinvasion
+Actual (Ground Truth) : MI → ['myometrial invasion']
+📏 Cosine Similarity   : 0.492
+🎯 Match               : ❌
+================================================================================
+Index                 : 13
+Acronym               : SM
+Predicted             : SM → Streptomycin Sulfate
+Actual (Ground Truth) : SM → ['streptomycin sulfate']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 14
+Acronym               : NT
+Predicted             : NT → N-terminal
+Actual (Ground Truth) : NT → ['nterminal']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 15
+Acronym               : PPL
+Predicted             : PPL → Permutation Test for Platinum Linkage
+Actual (Ground Truth) : PPL → ['posterior probability of linkage']
+📏 Cosine Similarity   : 0.284
+🎯 Match               : ❌
+================================================================================
+Index                 : 16
+Acronym               : SLPs
+Predicted             : SLPs → Surface Layer Proteins
+Actual (Ground Truth) : SLPs → ['slayer proteins']
+📏 Cosine Similarity   : 0.402
+🎯 Match               : ✔️
+================================================================================
+Index                 : 17
+Acronym               : T4
+Predicted             : T4 → Tumor Th4re Stage 4
+Actual (Ground Truth) : T4 → ['locally advanced']
+📏 Cosine Similarity   : 0.075
+🎯 Match               : ❌
+================================================================================
+Index                 : 18
+Acronym               : HH
+Predicted             : HH → Hemochromatosis
+Actual (Ground Truth) : HH → ['hereditary haemochromatosis']
+📏 Cosine Similarity   : 0.522
+🎯 Match               : ❌
+================================================================================
+Index                 : 19
+Acronym               : CML
+Predicted             : CML → Chronic Myeloid Leukemia
+Actual (Ground Truth) : CML → ['chronic myelogenous leukaemia']
+📏 Cosine Similarity   : 0.846
+🎯 Match               : ✔️
+================================================================================
+Index                 : 20
+Acronym               : DCI
+Predicted             : DCI → Delayed Cerebral Ischemia
+Actual (Ground Truth) : DCI → ['delayed cerebral ischemia']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 21
+Acronym               : MOF
+Predicted             : MOF → Multi-Organ Failure
+Actual (Ground Truth) : MOF → ['multiple organ failure']
+📏 Cosine Similarity   : 0.886
+🎯 Match               : ✔️
+================================================================================
+Index                 : 22
+Acronym               : IA
+Predicted             : IA → Insulin Adhesion
+Actual (Ground Truth) : IA → ['insulin antibodies']
+📏 Cosine Similarity   : 0.564
+🎯 Match               : ❌
+================================================================================
+Index                 : 23
+Acronym               : BD
+Predicted             : BD → Blood Donation
+Actual (Ground Truth) : BD → ['base deficit']
+📏 Cosine Similarity   : 0.168
+🎯 Match               : ❌
+================================================================================
+Index                 : 24
+Acronym               : T1
+Predicted             : T1 → Time One
+Actual (Ground Truth) : T1 → ['first twitch']
+📏 Cosine Similarity   : 0.341
+🎯 Match               : ❌
+================================================================================
+Index                 : 25
+Acronym               : DDE
+Predicted             : DDE → Diurnal Dormancy Element
+Actual (Ground Truth) : DDE → ['ethylene']
+📏 Cosine Similarity   : 0.138
+🎯 Match               : ❌
+================================================================================
+Index                 : 26
+Acronym               : CM
+Predicted             : CM → Center of Mass
+Actual (Ground Truth) : CM → ['center of mass']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 27
+Acronym               : AM
+Predicted             : AM → Alternative Medicine
+Actual (Ground Truth) : AM → ['alternative medicine']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 28
+Acronym               : CRF
+Predicted             : CRF → Fixed Ratio Reinforcement
+Actual (Ground Truth) : CRF → ['continuous reinforcement']
+📏 Cosine Similarity   : 0.443
+🎯 Match               : ❌
+================================================================================
+Index                 : 29
+Acronym               : AI
+Predicted             : AI → Aortic Incompetence
+Actual (Ground Truth) : AI → ['aortic insufficiency']
+📏 Cosine Similarity   : 0.862
+🎯 Match               : ✔️
+================================================================================
+Index                 : 30
+Acronym               : DNP
+Predicted             : DNP → Dynamic Nuclear Polarization
+Actual (Ground Truth) : DNP → ['dynamic nuclear polarization']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 31
+Acronym               : PR
+Predicted             : PR → Plaque Regression
+Actual (Ground Truth) : PR → ['partial regression']
+📏 Cosine Similarity   : 0.327
+🎯 Match               : ❌
+================================================================================
+Index                 : 32
+Acronym               : HUS
+Predicted             : HUS → Hemolytic Uremic Syndrome
+Actual (Ground Truth) : HUS → ['hemolytic uremic syndrome']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 33
+Acronym               : GT
+Predicted             : GT → Glucuronosyltransferase
+Actual (Ground Truth) : GT → ['glucuronosyltransferase']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 34
+Acronym               : Ah
+Predicted             : Ah → Aryl Hydrocarbon Receptor.
+Actual (Ground Truth) : Ah → ['aromatic hydrocarbon']
+📏 Cosine Similarity   : 0.606
+🎯 Match               : ❌
+================================================================================
+Index                 : 35
+Acronym               : MFC
+Predicted             : MFC → Microbial Fuel Cell
+Actual (Ground Truth) : MFC → ['microbial fuel cell']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 36
+Acronym               : CH
+Predicted             : CH → Cardiac Hypertrophy
+Actual (Ground Truth) : CH → ['cardiac hypertrophy']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 37
+Acronym               : CS
+Predicted             : CS → Cord Blood Serum
+Actual (Ground Truth) : CS → ['calf serum']
+📏 Cosine Similarity   : 0.518
+🎯 Match               : ❌
+================================================================================
+Index                 : 38
+Acronym               : CDH
+Predicted             : CDH → Congenital Diaphragmatic Hernia.
+Actual (Ground Truth) : CDH → ['congenital dislocation of the hip']
+📏 Cosine Similarity   : 0.562
+🎯 Match               : ❌
+================================================================================
+Index                 : 39
+Acronym               : LST
+Predicted             : LST → Leishmania Strain Test
+Actual (Ground Truth) : LST → ['leishmanin skin test']
+📏 Cosine Similarity   : 0.717
+🎯 Match               : ✔️
+================================================================================
+Index                 : 40
+Acronym               : PG
+Predicted             : PG → Pregnancy-Associated Ghost
+Actual (Ground Truth) : PG → ['pemphigoid gestationis']
+📏 Cosine Similarity   : 0.310
+🎯 Match               : ❌
+================================================================================
+Index                 : 41
+Acronym               : RP
+Predicted             : RP → Receptor-Positive
+Actual (Ground Truth) : RP → ['reaction product']
+📏 Cosine Similarity   : 0.372
+🎯 Match               : ❌
+================================================================================
+Index                 : 42
+Acronym               : PN
+Predicted             : PN → Pre-Natal
+Actual (Ground Truth) : PN → ['partner notification']
+📏 Cosine Similarity   : 0.155
+🎯 Match               : ❌
+================================================================================
+Index                 : 43
+Acronym               : SH
+Predicted             : SH → Slow Heart Rate
+Actual (Ground Truth) : SH → ['hypotension']
+📏 Cosine Similarity   : 0.262
+🎯 Match               : ❌
+================================================================================
+Index                 : 44
+Acronym               : BMs
+Predicted             : BMs → Bowel Movements
+Actual (Ground Truth) : BMs → ['bowel movements']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 45
+Acronym               : CF
+Predicted             : CF → Chronic Fatigue
+Actual (Ground Truth) : CF → ['chronic fatigue']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 46
+Acronym               : TLE
+Predicted             : TLE → Temporal Lobectomy
+Actual (Ground Truth) : TLE → ['temporal lobe epilepsy']
+📏 Cosine Similarity   : 0.511
+🎯 Match               : ❌
+================================================================================
+Index                 : 47
+Acronym               : CS
+Predicted             : CS → Clinical Supervision
+Actual (Ground Truth) : CS → ['clinical supervision']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 48
+Acronym               : PML
+Predicted             : PML → Posterior Mitral Leaflet
+Actual (Ground Truth) : PML → ['posterior mitral leaflet']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 49
+Acronym               : Ki-67
+Predicted             : Ki-67 → Key Proliferation Indicator 67
+Actual (Ground Truth) : Ki-67 → ['proliferation marker']
+📏 Cosine Similarity   : 0.361
+🎯 Match               : ❌
+================================================================================
+Index                 : 50
+Acronym               : ICS
+Predicted             : ICS → Intracellular Compartmental Space
+Actual (Ground Truth) : ICS → ['intracellular space']
+📏 Cosine Similarity   : 0.840
+🎯 Match               : ✔️
+================================================================================
+Index                 : 51
+Acronym               : TIBC
+Predicted             : TIBC → Transferrin Iron Binding Capacity
+Actual (Ground Truth) : TIBC → ['total ironbinding capacity']
+📏 Cosine Similarity   : 0.520
+🎯 Match               : ❌
+================================================================================
+Index                 : 52
+Acronym               : RI
+Predicted             : RI → Renal Insufficiency
+Actual (Ground Truth) : RI → ['renal insufficiency']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 53
+Acronym               : PCT
+Predicted             : PCT → Perfusion Computed Tomography
+Actual (Ground Truth) : PCT → ['perfusion ct']
+📏 Cosine Similarity   : 0.655
+🎯 Match               : ❌
+================================================================================
+Index                 : 54
+Acronym               : CD
+Predicted             : CD → Cockayne syndrome decline.
+Actual (Ground Truth) : CD → ['carbidopa']
+📏 Cosine Similarity   : 0.238
+🎯 Match               : ❌
+================================================================================
+Index                 : 55
+Acronym               : BD
+Predicted             : BD → Bond-Dilution
+Actual (Ground Truth) : BD → ['brownian dynamics']
+📏 Cosine Similarity   : 0.095
+🎯 Match               : ❌
+================================================================================
+Index                 : 56
+Acronym               : HNA
+Predicted             : HNA → Higher Nervous Activity
+Actual (Ground Truth) : HNA → ['higher nervous activity']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 57
+Acronym               : PL
+Predicted             : PL → PolyLysine
+Actual (Ground Truth) : PL → ['polyllysine']
+📏 Cosine Similarity   : 0.848
+🎯 Match               : ✔️
+================================================================================
+Index                 : 58
+Acronym               : CN
+Predicted             : CN → Central Nervous System
+Actual (Ground Truth) : CN → ['cochlear nuclei']
+📏 Cosine Similarity   : 0.140
+🎯 Match               : ❌
+================================================================================
+Index                 : 59
+Acronym               : SGS
+Predicted             : SGS → Subglottic Stenosis
+Actual (Ground Truth) : SGS → ['subglottic stenosis']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 60
+Acronym               : ALP
+Predicted             : ALP → Alkaline pH
+Actual (Ground Truth) : ALP → ['alkaline']
+📏 Cosine Similarity   : 0.948
+🎯 Match               : ✔️
+================================================================================
+Index                 : 61
+Acronym               : pQCT
+Predicted             : pQCT → peripheral Quantitative Computed Tomography
+Actual (Ground Truth) : pQCT → ['peripheral quantitative computed tomography']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 62
+Acronym               : FR
+Predicted             : FR → Firing Rate
+Actual (Ground Truth) : FR → ['firing rate']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 63
+Acronym               : MA
+Predicted             : MA → Microagglutination.
+Actual (Ground Truth) : MA → ['microagglutination']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 64
+Acronym               : CP
+Predicted             : CP → Complement Activation Products.
+Actual (Ground Truth) : CP → ['classical pathway']
+📏 Cosine Similarity   : 0.011
+🎯 Match               : ❌
+================================================================================
+Index                 : 65
+Acronym               : HTLV
+Predicted             : HTLV → Human T-lymphotropic virus
+Actual (Ground Truth) : HTLV → ['human t lymphotropic virus']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 66
+Acronym               : DH
+Predicted             : DH → Ductal Hyperplasia.
+Actual (Ground Truth) : DH → ['ductal hyperplasia']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 67
+Acronym               : Tc
+Predicted             : Tc → Trophectoderm
+Actual (Ground Truth) : Tc → ['cell cycle']
+📏 Cosine Similarity   : 0.202
+🎯 Match               : ❌
+================================================================================
+Index                 : 68
+Acronym               : CPM
+Predicted             : CPM → Chlorpheniramine Maleate
+Actual (Ground Truth) : CPM → ['chlorpheniramine maleate']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 69
+Acronym               : DA
+Predicted             : DA → Diastolic Assessment
+Actual (Ground Truth) : DA → ['diagnostic accuracy']
+📏 Cosine Similarity   : 0.286
+🎯 Match               : ❌
+================================================================================
+Index                 : 70
+Acronym               : IAA
+Predicted             : IAA → Ileal Pouch Anal Anastomosis
+Actual (Ground Truth) : IAA → ['ileoanal anastomosis']
+📏 Cosine Similarity   : 0.857
+🎯 Match               : ✔️
+================================================================================
+Index                 : 71
+Acronym               : cPCR
+Predicted             : cPCR → Complementary Prime Polymerase Chain Reaction
+Actual (Ground Truth) : cPCR → ['competitive pcr']
+📏 Cosine Similarity   : 0.153
+🎯 Match               : ❌
+================================================================================
+Index                 : 72
+Acronym               : DBH
+Predicted             : DBH → Dermatoglyphic Index
+Actual (Ground Truth) : DBH → ['dopaminebetahydroxylase activity']
+📏 Cosine Similarity   : 0.189
+🎯 Match               : ❌
+================================================================================
+Index                 : 73
+Acronym               : PB
+Predicted             : PB → Poisson-Boltzmann equation
+Actual (Ground Truth) : PB → ['poissonboltzmann']
+📏 Cosine Similarity   : 0.856
+🎯 Match               : ✔️
+================================================================================
+Index                 : 74
+Acronym               : IAA
+Predicted             : IAA → Intestinal Anastomotic Assessment
+Actual (Ground Truth) : IAA → ['ileoanal anastomosis']
+📏 Cosine Similarity   : 0.706
+🎯 Match               : ❌
+================================================================================
+Index                 : 75
+Acronym               : TCD
+Predicted             : TCD → Transcranial Doppler
+Actual (Ground Truth) : TCD → ['transcranial doppler ultrasonography']
+📏 Cosine Similarity   : 0.841
+🎯 Match               : ✔️
+================================================================================
+Index                 : 76
+Acronym               : ID
+Predicted             : ID → Iodine Deficiency
+Actual (Ground Truth) : ID → ['iodine deficiency']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 77
+Acronym               : BER
+Predicted             : BER → Base Excision Repair
+Actual (Ground Truth) : BER → ['base excision repair']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 78
+Acronym               : CSI
+Predicted             : CSI → Computed Tomography-Guided Spinal Intervention
+Actual (Ground Truth) : CSI → ['craniospinal irradiation']
+📏 Cosine Similarity   : 0.446
+🎯 Match               : ❌
+================================================================================
+Index                 : 79
+Acronym               : MON
+Predicted             : MON → Monensin
+Actual (Ground Truth) : MON → ['monensin']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 80
+Acronym               : GON
+Predicted             : GON → Glaucoma Optic Neuropathy
+Actual (Ground Truth) : GON → ['glaucomatous optic neuropathy']
+📏 Cosine Similarity   : 0.929
+🎯 Match               : ✔️
+================================================================================
+Index                 : 81
+Acronym               : PSY
+Predicted             : PSY → Psyllium Husks and Yaks
+Actual (Ground Truth) : PSY → ['psyllium']
+📏 Cosine Similarity   : 0.794
+🎯 Match               : ❌
+================================================================================
+Index                 : 82
+Acronym               : PVE
+Predicted             : PVE → Post-Viral Edema
+Actual (Ground Truth) : PVE → ['plasma volume expansion']
+📏 Cosine Similarity   : 0.123
+🎯 Match               : ❌
+================================================================================
+Index                 : 83
+Acronym               : FP
+Predicted             : FP → Floor Plate.
+Actual (Ground Truth) : FP → ['floor plate']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 84
+Acronym               : CS
+Predicted             : CS → Cortical Somatosensory
+Actual (Ground Truth) : CS → ['corticospinal']
+📏 Cosine Similarity   : 0.512
+🎯 Match               : ❌
+================================================================================
+Index                 : 85
+Acronym               : RI
+Predicted             : RI → Radioimmunoconjugate
+Actual (Ground Truth) : RI → ['radioisotope']
+📏 Cosine Similarity   : 0.389
+🎯 Match               : ❌
+================================================================================
+Index                 : 86
+Acronym               : ST
+Predicted             : ST → Synovial Tissue
+Actual (Ground Truth) : ST → ['synovial tissues']
+📏 Cosine Similarity   : 0.968
+🎯 Match               : ✔️
+================================================================================
+Index                 : 87
+Acronym               : Act
+Predicted             : Act → Actinorhodin
+Actual (Ground Truth) : Act → ['actinorhodin']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 88
+Acronym               : mACh
+Predicted             : mACh → Muscarinic Acetylcholine Receptor
+Actual (Ground Truth) : mACh → ['muscarinic acetylcholine']
+📏 Cosine Similarity   : 0.912
+🎯 Match               : ✔️
+================================================================================
+Index                 : 89
+Acronym               : AOD
+Predicted             : AOD → Alcohol and Other Drug(s)
+Actual (Ground Truth) : AOD → ['alcohol and other drug']
+📏 Cosine Similarity   : 0.949
+🎯 Match               : ✔️
+================================================================================
+Index                 : 90
+Acronym               : OT
+Predicted             : OT → Operating Theatre
+Actual (Ground Truth) : OT → ['operating theatre']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 91
+Acronym               : PQ
+Predicted             : PQ → Plastoquinone
+Actual (Ground Truth) : PQ → ['plastoquinone']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 92
+Acronym               : LTS
+Predicted             : LTS → Left Thoracic Syndrome
+Actual (Ground Truth) : LTS → ['longterm survival']
+📏 Cosine Similarity   : 0.151
+🎯 Match               : ❌
+================================================================================
+Index                 : 93
+Acronym               : EDTA
+Predicted             : EDTA → Ethylenediaminetetraacetic acid
+Actual (Ground Truth) : EDTA → ['ethylene diamine tetraacetic acid']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 94
+Acronym               : NTB
+Predicted             : NTB → Norfloxacin-Tobramycin
+Actual (Ground Truth) : NTB → ['netobimin']
+📏 Cosine Similarity   : 0.241
+🎯 Match               : ❌
+================================================================================
+Index                 : 95
+Acronym               : SLL
+Predicted             : SLL → Small Lymphocytic Lymphoma
+Actual (Ground Truth) : SLL → ['small lymphocytic lymphoma']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 96
+Acronym               : LCIS
+Predicted             : LCIS → Lobular Carcinoma In Situ
+Actual (Ground Truth) : LCIS → ['lobular carcinoma in situ']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 97
+Acronym               : TRF
+Predicted             : TRF → Terminal Restriction Fragment
+Actual (Ground Truth) : TRF → ['terminal restriction fragment']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 98
+Acronym               : CAV
+Predicted             : CAV → Continuous Airway Velocity.
+Actual (Ground Truth) : CAV → ['cardiac allograft vasculopathy']
+📏 Cosine Similarity   : 0.009
+🎯 Match               : ❌
+================================================================================
+Index                 : 99
+Acronym               : DCIS
+Predicted             : DCIS → Ductal Carcinoma In Situ
+Actual (Ground Truth) : DCIS → ['intraductal carcinoma']
+📏 Cosine Similarity   : 0.378
+🎯 Match               : ❌
+================================================================================
+Index                 : 100
+Acronym               : CTS
+Predicted             : CTS → Circadian Time Signal.
+Actual (Ground Truth) : CTS → ['circadian timing system']
+📏 Cosine Similarity   : 0.895
+🎯 Match               : ✔️
+================================================================================
+Index                 : 101
+Acronym               : VVI
+Predicted             : VVI → Ventricular Velocity-Time Integral
+Actual (Ground Truth) : VVI → ['ventricular']
+📏 Cosine Similarity   : 0.686
+🎯 Match               : ❌
+================================================================================
+Index                 : 102
+Acronym               : TLS
+Predicted             : TLS → Transient Loss of Structure
+Actual (Ground Truth) : TLS → ['translesion dna synthesis']
+📏 Cosine Similarity   : 0.041
+🎯 Match               : ❌
+================================================================================
+Index                 : 103
+Acronym               : MSSA
+Predicted             : MSSA → Methicillin-Sensitive Staphylococcus Aureus
+Actual (Ground Truth) : MSSA → ['methicillinsensitive']
+📏 Cosine Similarity   : 0.652
+🎯 Match               : ❌
+================================================================================
+Index                 : 104
+Acronym               : DSC
+Predicted             : DSC → Differential Scanning Calorimetry.
+Actual (Ground Truth) : DSC → ['differential scanning calorimeter']
+📏 Cosine Similarity   : 0.951
+🎯 Match               : ✔️
+================================================================================
+Index                 : 105
+Acronym               : HC
+Predicted             : HC → Head Canalis (Latin for head canal)
+Actual (Ground Truth) : HC → ['horizontal semicircular canal']
+📏 Cosine Similarity   : 0.447
+🎯 Match               : ❌
+================================================================================
+Index                 : 106
+Acronym               : WHO
+Predicted             : WHO → World Health Organization
+Actual (Ground Truth) : WHO → ['grade iii']
+📏 Cosine Similarity   : 0.165
+🎯 Match               : ❌
+================================================================================
+Index                 : 107
+Acronym               : ST
+Predicted             : ST → Short Tandem Repeat.
+Actual (Ground Truth) : ST → ['sequence type']
+📏 Cosine Similarity   : 0.317
+🎯 Match               : ❌
+================================================================================
+Index                 : 108
+Acronym               : TFL
+Predicted             : TFL → Transversus Abdominis Fasciae Latae
+Actual (Ground Truth) : TFL → ['tensor fasciae latae']
+📏 Cosine Similarity   : 0.424
+🎯 Match               : ❌
+================================================================================
+Index                 : 109
+Acronym               : CE
+Predicted             : CE → Cold Exposure
+Actual (Ground Truth) : CE → ['cold exposure']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 110
+Acronym               : FA
+Predicted             : FA → Fulminant Autoimmune Thyrotoxicosis
+Actual (Ground Truth) : FA → ['fibrosing alveolitis']
+📏 Cosine Similarity   : 0.273
+🎯 Match               : ❌
+================================================================================
+Index                 : 111
+Acronym               : TG
+Predicted             : TG → T Lymphocyte Gamma (a type of immune cell)
+Actual (Ground Truth) : TG → ['fc receptors for igg']
+📏 Cosine Similarity   : 0.099
+🎯 Match               : ❌
+================================================================================
+Index                 : 112
+Acronym               : MLA
+Predicted             : MLA → Mutagenicity Liquid Assay
+Actual (Ground Truth) : MLA → ['mouse lymphoma assay']
+📏 Cosine Similarity   : 0.175
+🎯 Match               : ❌
+================================================================================
+Index                 : 113
+Acronym               : VBS
+Predicted             : VBS → Vertebrobasilar System
+Actual (Ground Truth) : VBS → ['vertebrobasilar system']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 114
+Acronym               : GCl
+Predicted             : GCl → Golgi Complex Lumen
+Actual (Ground Truth) : GCl → ['chloride conductance']
+📏 Cosine Similarity   : 0.131
+🎯 Match               : ❌
+================================================================================
+Index                 : 115
+Acronym               : VT
+Predicted             : VT → Ventricular Tachypnea
+Actual (Ground Truth) : VT → ['ventilation tube']
+📏 Cosine Similarity   : 0.344
+🎯 Match               : ❌
+================================================================================
+Index                 : 116
+Acronym               : VE
+Predicted             : VE → Vascular Endothelial Growth Factor
+Actual (Ground Truth) : VE → ['vascular endothelial']
+📏 Cosine Similarity   : 0.821
+🎯 Match               : ✔️
+================================================================================
+Index                 : 117
+Acronym               : MA
+Predicted             : MA → Monoamine
+Actual (Ground Truth) : MA → ['monoamine']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 118
+Acronym               : SVT
+Predicted             : SVT → Superficial Venous Thrombosis
+Actual (Ground Truth) : SVT → ['superficial vein thrombosis']
+📏 Cosine Similarity   : 0.710
+🎯 Match               : ✔️
+================================================================================
+Index                 : 119
+Acronym               : RR
+Predicted             : RR → Recovery in vitro.
+Actual (Ground Truth) : RR → ['relative recovery']
+📏 Cosine Similarity   : 0.330
+🎯 Match               : ❌
+================================================================================
+Index                 : 120
+Acronym               : EIS
+Predicted             : EIS → Electrochemical Impedance Spectroscopy
+Actual (Ground Truth) : EIS → ['electrochemical impedance spectroscopy']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 121
+Acronym               : CT
+Predicted             : CT → Computed Tomography
+Actual (Ground Truth) : CT → ['congenital toxoplasmosis']
+📏 Cosine Similarity   : 0.205
+🎯 Match               : ❌
+================================================================================
+Index                 : 122
+Acronym               : MLV
+Predicted             : MLV → Molecular Liquid Viscosity
+Actual (Ground Truth) : MLV → ['multilamellar liposomes']
+📏 Cosine Similarity   : 0.150
+🎯 Match               : ❌
+================================================================================
+Index                 : 123
+Acronym               : AIS
+Predicted             : AIS → Acute Cerebral Infarction in the territory of the Superior Temporal Artery.
+Actual (Ground Truth) : AIS → ['acute ischaemic stroke']
+📏 Cosine Similarity   : 0.434
+🎯 Match               : ❌
+================================================================================
+Index                 : 124
+Acronym               : i.v.
+Predicted             : i.v. → Intravenous
+Actual (Ground Truth) : i.v. → ['administered intravenously']
+📏 Cosine Similarity   : 0.568
+🎯 Match               : ❌
+================================================================================
+Index                 : 125
+Acronym               : MAL
+Predicted             : MAL → Matrix Attachment Region Long Interspersed Nucleotide Element
+Actual (Ground Truth) : MAL → ['myelin and lymphocyte protein']
+📏 Cosine Similarity   : 0.204
+🎯 Match               : ❌
+================================================================================
+Index                 : 126
+Acronym               : SA
+Predicted             : SA → Status Asthmaticus
+Actual (Ground Truth) : SA → ['status asthmaticus']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 127
+Acronym               : FC
+Predicted             : FC → Frontal Cortex
+Actual (Ground Truth) : FC → ['frontal']
+📏 Cosine Similarity   : 0.713
+🎯 Match               : ❌
+================================================================================
+Index                 : 128
+Acronym               : SER
+Predicted             : SER → Salt and Enzyme Repletion
+Actual (Ground Truth) : SER → ['smooth endoplasmic reticulum']
+📏 Cosine Similarity   : 0.118
+🎯 Match               : ❌
+================================================================================
+Index                 : 129
+Acronym               : cDNA
+Predicted             : cDNA → Complementary DNA
+Actual (Ground Truth) : cDNA → ['complementary']
+📏 Cosine Similarity   : 0.607
+🎯 Match               : ✔️
+================================================================================
+Index                 : 130
+Acronym               : IT
+Predicted             : IT → Ih-type calcium channel.
+Actual (Ground Truth) : IT → ['ca current']
+📏 Cosine Similarity   : 0.263
+🎯 Match               : ❌
+================================================================================
+Index                 : 131
+Acronym               : BCR
+Predicted             : BCR → Brain-Cortex-Receptor
+Actual (Ground Truth) : BCR → ['receptor complex']
+📏 Cosine Similarity   : 0.329
+🎯 Match               : ❌
+================================================================================
+Index                 : 132
+Acronym               : ROP
+Predicted             :  → 
+Actual (Ground Truth) : ROP → ['retinopathy of prematurity']
+📏 Cosine Similarity   : 0.000
+🎯 Match               : ❌
+================================================================================
+Index                 : 133
+Acronym               : UP
+Predicted             : UP → Ultra-purification
+Actual (Ground Truth) : UP → ['universal precautions']
+📏 Cosine Similarity   : 0.117
+🎯 Match               : ❌
+================================================================================
+Index                 : 134
+Acronym               : ECA
+Predicted             : ECA → Electrical Control Activity
+Actual (Ground Truth) : ECA → ['electrical control activity']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 135
+Acronym               : PB
+Predicted             : PB → Protein Binding
+Actual (Ground Truth) : PB → ['poissonboltzmann']
+📏 Cosine Similarity   : 0.183
+🎯 Match               : ❌
+================================================================================
+Index                 : 136
+Acronym               : LS
+Predicted             : LS → Laparoscopic Surgery
+Actual (Ground Truth) : LS → ['laparoscopic surgery']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 137
+Acronym               : CS
+Predicted             : CS → Clinical Symptoms
+Actual (Ground Truth) : CS → ['clinical score']
+📏 Cosine Similarity   : 0.509
+🎯 Match               : ❌
+================================================================================
+Index                 : 138
+Acronym               : MV
+Predicted             : MV → Megavoltage
+Actual (Ground Truth) : MV → ['megavoltage']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 139
+Acronym               : WG
+Predicted             : WG → Working Group
+Actual (Ground Truth) : WG → ['working group']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 140
+Acronym               : BFU-E
+Predicted             : BFU-E → Burst-Forming Unit-Erythroblast
+Actual (Ground Truth) : BFU-E → ['erythroid progenitor cells']
+📏 Cosine Similarity   : 0.111
+🎯 Match               : ❌
+================================================================================
+Index                 : 141
+Acronym               : SAP
+Predicted             : SAP → Serum Alanine Aminotransferase
+Actual (Ground Truth) : SAP → ['serum alkaline phosphatase']
+📏 Cosine Similarity   : 0.369
+🎯 Match               : ❌
+================================================================================
+Index                 : 142
+Acronym               : BB
+Predicted             : BB → Brain Bleeding
+Actual (Ground Truth) : BB → ['brain']
+📏 Cosine Similarity   : 0.581
+🎯 Match               : ❌
+================================================================================
+Index                 : 143
+Acronym               : MHV
+Predicted             : MHV → Hepatic Vein
+Actual (Ground Truth) : MHV → ['middle hepatic vein']
+📏 Cosine Similarity   : 0.805
+🎯 Match               : ✔️
+================================================================================
+Index                 : 144
+Acronym               : SP
+Predicted             : SP → Pulmonary Artery Systolic Pressure
+Actual (Ground Truth) : SP → ['systolic pressure']
+📏 Cosine Similarity   : 0.363
+🎯 Match               : ❌
+================================================================================
+Index                 : 145
+Acronym               : AC
+Predicted             : AC → Anticoagulation
+Actual (Ground Truth) : AC → ['anticoagulation']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 146
+Acronym               : TT
+Predicted             : TT → Thrombolytic Therapy
+Actual (Ground Truth) : TT → ['thrombolytic therapy']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 147
+Acronym               : HI
+Predicted             : HI → Hearing Impairment
+Actual (Ground Truth) : HI → ['hearingimpaired']
+📏 Cosine Similarity   : 0.829
+🎯 Match               : ✔️
+================================================================================
+Index                 : 148
+Acronym               : VA
+Predicted             : VA → Ventricular Access
+Actual (Ground Truth) : VA → ['ventriculoarterial']
+📏 Cosine Similarity   : 0.819
+🎯 Match               : ✔️
+================================================================================
+Index                 : 149
+Acronym               : TN
+Predicted             : TN → Truncular Nerve
+Actual (Ground Truth) : TN → ['tibial nerve']
+📏 Cosine Similarity   : 0.496
+🎯 Match               : ❌
+================================================================================
+Index                 : 150
+Acronym               : ERCP
+Predicted             : ERCP → Endoscopic Retrograde Cholangio-Pancreatography
+Actual (Ground Truth) : ERCP → ['endoscopic retrograde cholangiopancreatography']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 151
+Acronym               : C/N
+Predicted             : C/N → Contrast-to-Noise
+Actual (Ground Truth) : C/N → ['contrasttonoise']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 152
+Acronym               : HFA
+Predicted             : HFA → Hypoglossal Nerve to Facial Nerve Anastomosis
+Actual (Ground Truth) : HFA → ['hypoglossalfacial nerve anastomosis']
+📏 Cosine Similarity   : 0.947
+🎯 Match               : ✔️
+================================================================================
+Index                 : 153
+Acronym               : MMO
+Predicted             : MMO → Mono and polynuclear transition metal complexes
+Actual (Ground Truth) : MMO → ['methane monooxygenase']
+📏 Cosine Similarity   : 0.172
+🎯 Match               : ❌
+================================================================================
+Index                 : 154
+Acronym               : HLA-DR
+Predicted             : HLA-DR → Human Leukocyte Antigen-DR
+Actual (Ground Truth) : HLA-DR → ['human leukocyte antigen']
+📏 Cosine Similarity   : 0.914
+🎯 Match               : ✔️
+================================================================================
+Index                 : 155
+Acronym               : SI
+Predicted             : SI → Stress Incontinence
+Actual (Ground Truth) : SI → ['stress incontinence']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 156
+Acronym               : NSI
+Predicted             : NSI → Needlestick Injury
+Actual (Ground Truth) : NSI → ['needlestick injury']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 157
+Acronym               : NB
+Predicted             : NB → NeuroBorreliosis
+Actual (Ground Truth) : NB → ['neuroborreliosis']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 158
+Acronym               : HIS
+Predicted             : HIS → Health Insurance Survey
+Actual (Ground Truth) : HIS → ['health interview survey']
+📏 Cosine Similarity   : 0.652
+🎯 Match               : ❌
+================================================================================
+Index                 : 159
+Acronym               : AGC
+Predicted             : AGC → Atypical Glandular Cells
+Actual (Ground Truth) : AGC → ['atypical glandular cells']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 160
+Acronym               : DMS
+Predicted             : DMS → Dimethyl sulfide
+Actual (Ground Truth) : DMS → ['dimethyl sulfide']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 161
+Acronym               : OHT
+Predicted             : OHT → Off-pump Heart Transplantation
+Actual (Ground Truth) : OHT → ['orthotopic heart transplantation']
+📏 Cosine Similarity   : 0.750
+🎯 Match               : ❌
+================================================================================
+Index                 : 162
+Acronym               : CPs
+Predicted             : CPs → Capsid Proteins.
+Actual (Ground Truth) : CPs → ['capsid proteins']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 163
+Acronym               : SIS
+Predicted             : SIS → Suspensory Internal Splinting
+Actual (Ground Truth) : SIS → ['impingement syndrome']
+📏 Cosine Similarity   : 0.323
+🎯 Match               : ❌
+================================================================================
+Index                 : 164
+Acronym               : PG
+Predicted             : PG → Proteoglycan
+Actual (Ground Truth) : PG → ['cartilage proteoglycan']
+📏 Cosine Similarity   : 0.550
+🎯 Match               : ❌
+================================================================================
+Index                 : 165
+Acronym               : IF
+Predicted             : IF → Immunofixation
+Actual (Ground Truth) : IF → ['immunofixation']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 166
+Acronym               : LF
+Predicted             : LF → Low Flow
+Actual (Ground Truth) : LF → ['low flow']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 167
+Acronym               : one
+Predicted             : one → Upper Gastrointestinal
+Actual (Ground Truth) : one → ['bleeding']
+📏 Cosine Similarity   : 0.200
+🎯 Match               : ❌
+================================================================================
+Index                 : 168
+Acronym               : PNS
+Predicted             : PNS → Peripheral Nervous System
+Actual (Ground Truth) : PNS → ['paraneoplastic neurological syndromes']
+📏 Cosine Similarity   : 0.261
+🎯 Match               : ❌
+================================================================================
+Index                 : 169
+Acronym               : NCs
+Predicted             : NCs → Negative Cells.
+Actual (Ground Truth) : NCs → ['nucleated cells']
+📏 Cosine Similarity   : 0.536
+🎯 Match               : ❌
+================================================================================
+Index                 : 170
+Acronym               : ADE
+Predicted             : ADE → Antibody-Dependent Enhancement
+Actual (Ground Truth) : ADE → ['antibodydependent enhancement']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 171
+Acronym               : UW
+Predicted             : UW → Ultra-Wash
+Actual (Ground Truth) : UW → ['university of wisconsin']
+📏 Cosine Similarity   : 0.259
+🎯 Match               : ❌
+================================================================================
+Index                 : 172
+Acronym               : UBC
+Predicted             : UBC → Urinary Bladder Cancer
+Actual (Ground Truth) : UBC → ['urinary bladder cancer']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 173
+Acronym               : MWD
+Predicted             : MWD → Molecular Weight Distribution
+Actual (Ground Truth) : MWD → ['molecular weight distribution']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 174
+Acronym               : CD
+Predicted             : CD → Coronary Digital Subtraction Angiography
+Actual (Ground Truth) : CD → ['coronary diameter']
+📏 Cosine Similarity   : 0.668
+🎯 Match               : ❌
+================================================================================
+Index                 : 175
+Acronym               : MN
+Predicted             : MN → Mental Nerve
+Actual (Ground Truth) : MN → ['mental nerve']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 176
+Acronym               : ACT
+Predicted             : ACT → Adrenocortical Tumor
+Actual (Ground Truth) : ACT → ['adrenocortical tumors']
+📏 Cosine Similarity   : 0.940
+🎯 Match               : ✔️
+================================================================================
+Index                 : 177
+Acronym               : SF-36
+Predicted             : SF-36 → Short Form 36
+Actual (Ground Truth) : SF-36 → ['shortform']
+📏 Cosine Similarity   : 0.830
+🎯 Match               : ✔️
+================================================================================
+Index                 : 178
+Acronym               : SEM
+Predicted             : SEM → Structural Equation Modeling
+Actual (Ground Truth) : SEM → ['structural equation modelling']
+📏 Cosine Similarity   : 0.913
+🎯 Match               : ✔️
+================================================================================
+Index                 : 179
+Acronym               : ER
+Predicted             : ER → Emergency Room
+Actual (Ground Truth) : ER → ['emergency room']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 180
+Acronym               : CEC
+Predicted             : CEC → Chemical Extraction Chromatography
+Actual (Ground Truth) : CEC → ['capillary electrochromatography']
+📏 Cosine Similarity   : 0.590
+🎯 Match               : ❌
+================================================================================
+Index                 : 181
+Acronym               : MIR
+Predicted             : MIR → Mid-Infrared
+Actual (Ground Truth) : MIR → ['midinfrared']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 182
+Acronym               : TC
+Predicted             : TC → Total Chromium.
+Actual (Ground Truth) : TC → ['tubocurarine']
+📏 Cosine Similarity   : 0.234
+🎯 Match               : ❌
+================================================================================
+Index                 : 183
+Acronym               : LRR
+Predicted             : LRR → Long-duration Response
+Actual (Ground Truth) : LRR → ['loss of righting reflex']
+📏 Cosine Similarity   : 0.208
+🎯 Match               : ❌
+================================================================================
+Index                 : 184
+Acronym               : NJ
+Predicted             : NJ → Neighbor-Joining
+Actual (Ground Truth) : NJ → ['neighbourjoining']
+📏 Cosine Similarity   : 0.937
+🎯 Match               : ✔️
+================================================================================
+Index                 : 185
+Acronym               : OJ
+Predicted             : OJ → Orange Juice
+Actual (Ground Truth) : OJ → ['orange juice']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 186
+Acronym               : NAC
+Predicted             : NAC → N-acetyl cysteine
+Actual (Ground Truth) : NAC → ['nacetyl cysteine']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 187
+Acronym               : CA
+Predicted             : CA → Cao-Aguilar syndrome
+Actual (Ground Truth) : CA → ['catecholaminergic']
+📏 Cosine Similarity   : 0.297
+🎯 Match               : ❌
+================================================================================
+Index                 : 188
+Acronym               : DCI
+Predicted             : DCI → Decompression Illness
+Actual (Ground Truth) : DCI → ['decompression illness']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 189
+Acronym               : ART
+Predicted             : ART → Assisted Reproductive Technology
+Actual (Ground Truth) : ART → ['tachycardia']
+📏 Cosine Similarity   : -0.023
+🎯 Match               : ❌
+================================================================================
+Index                 : 190
+Acronym               : Emax
+Predicted             : Emax → Maximum Effect
+Actual (Ground Truth) : Emax → ['maximal effect']
+📏 Cosine Similarity   : 0.912
+🎯 Match               : ✔️
+================================================================================
+Index                 : 191
+Acronym               : Dmax
+Predicted             : Dmax → Maximum Diameter.
+Actual (Ground Truth) : Dmax → ['maximum diameter']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 192
+Acronym               : Jv
+Predicted             : Jv → Full Form: Proximal tubular voiding rate
+Actual (Ground Truth) : Jv → ['fluid reabsorption']
+📏 Cosine Similarity   : 0.163
+🎯 Match               : ❌
+================================================================================
+Index                 : 193
+Acronym               : VSV-G
+Predicted             : VSV-G → Viral Protein Glycoprotein
+Actual (Ground Truth) : VSV-G → ['vesicular stomatitis virus glycoprotein']
+📏 Cosine Similarity   : 0.650
+🎯 Match               : ❌
+================================================================================
+Index                 : 194
+Acronym               : i.v.
+Predicted             : i.v. → Intravenous
+Actual (Ground Truth) : i.v. → ['intravenous injection']
+📏 Cosine Similarity   : 0.875
+🎯 Match               : ✔️
+================================================================================
+Index                 : 195
+Acronym               : CPs
+Predicted             : CPs → Chlorophenolics
+Actual (Ground Truth) : CPs → ['chlorophenols']
+📏 Cosine Similarity   : 0.805
+🎯 Match               : ✔️
+================================================================================
+Index                 : 196
+Acronym               : LSC
+Predicted             : LSC → Lower Strength Category.
+Actual (Ground Truth) : LSC → ['least significant change']
+📏 Cosine Similarity   : 0.318
+🎯 Match               : ❌
+================================================================================
+Index                 : 197
+Acronym               : VC
+Predicted             : VC → Ventricular Contraction
+Actual (Ground Truth) : VC → ['vascular calcification']
+📏 Cosine Similarity   : 0.273
+🎯 Match               : ❌
+================================================================================
+Index                 : 198
+Acronym               : SVT
+Predicted             : SVT → SupraVentricular Tachycardia
+Actual (Ground Truth) : SVT → ['supraventricular']
+📏 Cosine Similarity   : 0.707
+🎯 Match               : ❌
+================================================================================
+Index                 : 199
+Acronym               : MFD
+Predicted             : MFD → Mucopolysaccharidoses type FD
+Actual (Ground Truth) : MFD → ['mandibulofacial dysostosis']
+📏 Cosine Similarity   : 0.192
+🎯 Match               : ❌
+================================================================================
+Index                 : 200
+Acronym               : MCF-7
+Predicted             : MCF-7 → Human Breast Cancer Derived Cell Lines
+Actual (Ground Truth) : MCF-7 → ['human breast carcinoma cells']
+📏 Cosine Similarity   : 0.738
+🎯 Match               : ❌
+================================================================================
+Index                 : 201
+Acronym               : CS
+Predicted             : CS → Corn Silage.
+Actual (Ground Truth) : CS → ['corn silage']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 202
+Acronym               : FF
+Predicted             : FF → Hypothalamic Feeding Circuitry
+Actual (Ground Truth) : FF → ['feeding']
+📏 Cosine Similarity   : 0.274
+🎯 Match               : ❌
+================================================================================
+Index                 : 203
+Acronym               : RP
+Predicted             : RP → Reverse Phase High Performance Liquid Chromatography
+Actual (Ground Truth) : RP → ['reversedphase']
+📏 Cosine Similarity   : 0.593
+🎯 Match               : ❌
+================================================================================
+Index                 : 204
+Acronym               : HPFH
+Predicted             : HPFH → Hereditary Persistence of Fetal Hemoglobin.
+Actual (Ground Truth) : HPFH → ['hereditary persistence of fetal haemoglobin']
+📏 Cosine Similarity   : 0.640
+🎯 Match               : ✔️
+================================================================================
+Index                 : 205
+Acronym               : AlF4-
+Predicted             : AlF4- → Aluminium Fluoride-
+Actual (Ground Truth) : AlF4- → ['fluoroaluminate']
+📏 Cosine Similarity   : 0.633
+🎯 Match               : ❌
+================================================================================
+Index                 : 206
+Acronym               : Tx
+Predicted             : Tx → Transplantation
+Actual (Ground Truth) : Tx → ['transplanted']
+📏 Cosine Similarity   : 0.900
+🎯 Match               : ✔️
+================================================================================
+Index                 : 207
+Acronym               : LN
+Predicted             : LN → Lupus Nephritis
+Actual (Ground Truth) : LN → ['lupus nephritis']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 208
+Acronym               : CT
+Predicted             : CT → Collecting Tubule.
+Actual (Ground Truth) : CT → ['collecting tubule']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 209
+Acronym               : VG
+Predicted             : VG → Ventricular Groove
+Actual (Ground Truth) : VG → ['vein grafts']
+📏 Cosine Similarity   : 0.224
+🎯 Match               : ❌
+================================================================================
+Index                 : 210
+Acronym               : MMP-8
+Predicted             : MMP-8 → Matrix MetalloProteinase-8
+Actual (Ground Truth) : MMP-8 → ['collagenase']
+📏 Cosine Similarity   : 0.206
+🎯 Match               : ❌
+================================================================================
+Index                 : 211
+Acronym               : ARI
+Predicted             : ARI → Acute Respiratory Infection
+Actual (Ground Truth) : ARI → ['acute respiratory insufficiency']
+📏 Cosine Similarity   : 0.914
+🎯 Match               : ✔️
+================================================================================
+Index                 : 212
+Acronym               : P/S
+Predicted             : P/S → Phosphatidylserine
+Actual (Ground Truth) : P/S → ['fatty acid ratio']
+📏 Cosine Similarity   : 0.408
+🎯 Match               : ❌
+================================================================================
+Index                 : 213
+Acronym               : UV
+Predicted             : UV → Ultraviolet
+Actual (Ground Truth) : UV → ['umbilical vein']
+📏 Cosine Similarity   : 0.100
+🎯 Match               : ❌
+================================================================================
+Index                 : 214
+Acronym               : HB
+Predicted             : HB → Horseradish Peroxidase
+Actual (Ground Truth) : HB → ['bodies']
+📏 Cosine Similarity   : 0.041
+🎯 Match               : ❌
+================================================================================
+Index                 : 215
+Acronym               : THAM
+Predicted             : THAM → Total Intramuscular Hydroxyapatite Administration
+Actual (Ground Truth) : THAM → ['tromethamine']
+📏 Cosine Similarity   : 0.130
+🎯 Match               : ❌
+================================================================================
+Index                 : 216
+Acronym               : H-7
+Predicted             : H-7 → 7-hydroxy-3(2H)-one
+Actual (Ground Truth) : H-7 → ['isoquinolinesulphonylmethylpiperazine']
+📏 Cosine Similarity   : 0.260
+🎯 Match               : ❌
+================================================================================
+Index                 : 217
+Acronym               : VT
+Predicted             : VT → Victim Trauma
+Actual (Ground Truth) : VT → ['vocational training']
+📏 Cosine Similarity   : 0.048
+🎯 Match               : ❌
+================================================================================
+Index                 : 218
+Acronym               : AP
+Predicted             : AP → Absolute Pitch.
+Actual (Ground Truth) : AP → ['absolute pitch']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 219
+Acronym               : SMA
+Predicted             : SMA → Superior Mesenteric Artery
+Actual (Ground Truth) : SMA → ['superior mesenteric']
+📏 Cosine Similarity   : 0.740
+🎯 Match               : ✔️
+================================================================================
+Index                 : 220
+Acronym               : PGST
+Predicted             : PGST → Precancerous Glandular Stromal Tarballs
+Actual (Ground Truth) : PGST → ['placental glutathione stransferase']
+📏 Cosine Similarity   : 0.134
+🎯 Match               : ❌
+================================================================================
+Index                 : 221
+Acronym               : SMA
+Predicted             : SMA → Superior Mesenteric Artery
+Actual (Ground Truth) : SMA → ['superior mesenteric arterial']
+📏 Cosine Similarity   : 0.941
+🎯 Match               : ✔️
+================================================================================
+Index                 : 222
+Acronym               : REC
+Predicted             : REC → Reproducibility, Enrichment, and Calibration
+Actual (Ground Truth) : REC → ['recovery']
+📏 Cosine Similarity   : 0.213
+🎯 Match               : ❌
+================================================================================
+Index                 : 223
+Acronym               : BOS
+Predicted             : BOS → Body Oscillation Stability
+Actual (Ground Truth) : BOS → ['base of support']
+📏 Cosine Similarity   : 0.082
+🎯 Match               : ❌
+================================================================================
+Index                 : 224
+Acronym               : ITT
+Predicted             : ITT → Intent-to-Treat
+Actual (Ground Truth) : ITT → ['intenttotreat']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 225
+Acronym               : MCH
+Predicted             : MCH → Maternal and Child Health
+Actual (Ground Truth) : MCH → ['maternal and child health']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 226
+Acronym               : CR
+Predicted             : CR → Complete mitochondrial genomes
+Actual (Ground Truth) : CR → ['cockroach']
+📏 Cosine Similarity   : -0.009
+🎯 Match               : ❌
+================================================================================
+Index                 : 227
+Acronym               : CFS
+Predicted             : CFS → Chronic Fatigue Syndrome.
+Actual (Ground Truth) : CFS → ['chronic fatigue syndrome']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 228
+Acronym               : OC
+Predicted             : OC → Opportunistic Candidosis
+Actual (Ground Truth) : OC → ['oral candidiasis']
+📏 Cosine Similarity   : 0.391
+🎯 Match               : ❌
+================================================================================
+Index                 : 229
+Acronym               : BA
+Predicted             : BA → Benzamide
+Actual (Ground Truth) : BA → ['benzamide']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 230
+Acronym               : PRE
+Predicted             : PRE → Pre-Initiation Region Element
+Actual (Ground Truth) : PRE → ['positive regulatory element']
+📏 Cosine Similarity   : 0.234
+🎯 Match               : ❌
+================================================================================
+Index                 : 231
+Acronym               : MDT
+Predicted             : MDT → Multidisciplinary Team
+Actual (Ground Truth) : MDT → ['multidisciplinary team']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 232
+Acronym               : CPN
+Predicted             : CPN → Central Pattern Neurones.
+Actual (Ground Truth) : CPN → ['common peroneal nerve']
+📏 Cosine Similarity   : 0.288
+🎯 Match               : ❌
+================================================================================
+Index                 : 233
+Acronym               : GTR
+Predicted             : GTR → Gross Total Resection
+Actual (Ground Truth) : GTR → ['gross total resection']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 234
+Acronym               : PRR
+Predicted             : PRR → Postreplication repair
+Actual (Ground Truth) : PRR → ['postreplication repair']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 235
+Acronym               : CPK
+Predicted             : CPK → Creatine Phosphokinase
+Actual (Ground Truth) : CPK → ['creatinephosphokinase']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 236
+Acronym               : AGS
+Predicted             : AGS → Alagille Syndrome.
+Actual (Ground Truth) : AGS → ['alagille syndrome']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 237
+Acronym               : MEM
+Predicted             : MEM → Mitochondrial Encephalomyopathy, Myopathy, and Lactic Acidosis.
+Actual (Ground Truth) : MEM → ['mitochondrial encephalomyopathy']
+📏 Cosine Similarity   : 0.836
+🎯 Match               : ✔️
+================================================================================
+Index                 : 238
+Acronym               : WMC
+Predicted             : WMC → White Matter Cavum
+Actual (Ground Truth) : WMC → ['white matter changes']
+📏 Cosine Similarity   : 0.590
+🎯 Match               : ❌
+================================================================================
+Index                 : 239
+Acronym               : CSE
+Predicted             : CSE → Controlled Subjective Experience.
+Actual (Ground Truth) : CSE → ['convulsive status epilepticus']
+📏 Cosine Similarity   : 0.227
+🎯 Match               : ❌
+================================================================================
+Index                 : 240
+Acronym               : UAE
+Predicted             : UAE → United Arab Emirates.
+Actual (Ground Truth) : UAE → ['united arab emirates']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 241
+Acronym               : Se
+Predicted             : Se → Selenium.
+Actual (Ground Truth) : Se → ['selenium']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 242
+Acronym               : BP
+Predicted             : BP → Blood Product
+Actual (Ground Truth) : BP → ['bacterial pneumonia']
+📏 Cosine Similarity   : 0.216
+🎯 Match               : ❌
+================================================================================
+Index                 : 243
+Acronym               : HPS
+Predicted             : HPS → Hemorrhagic Pulmonary Syndrome
+Actual (Ground Truth) : HPS → ['hantavirus pulmonary syndrome']
+📏 Cosine Similarity   : 0.314
+🎯 Match               : ❌
+================================================================================
+Index                 : 244
+Acronym               : CS
+Predicted             : CS → Central Sulcus
+Actual (Ground Truth) : CS → ['central sulcus']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 245
+Acronym               : VL
+Predicted             : VL → Rostral Ventrolateral Medulla
+Actual (Ground Truth) : VL → ['ventrolateral']
+📏 Cosine Similarity   : 0.532
+🎯 Match               : ❌
+================================================================================
+Index                 : 246
+Acronym               : VDRL
+Predicted             : VDRL → Venereal Disease Research Laboratory
+Actual (Ground Truth) : VDRL → ['venereal disease research laboratory test']
+📏 Cosine Similarity   : 0.869
+🎯 Match               : ✔️
+================================================================================
+Index                 : 247
+Acronym               : SRF
+Predicted             : SRF → Serum Response Factor
+Actual (Ground Truth) : SRF → ['serum response factor']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 248
+Acronym               : EUS
+Predicted             : EUS → Endoscopic Ultrasound
+Actual (Ground Truth) : EUS → ['endoscopic ultrasound']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 249
+Acronym               : OCT
+Predicted             : OCT → Optical Coherence Tomography
+Actual (Ground Truth) : OCT → ['organic cation transporter']
+📏 Cosine Similarity   : 0.065
+🎯 Match               : ❌
+================================================================================
+Index                 : 250
+Acronym               : ERCP
+Predicted             : ERCP → Endoscopic Retrograde Cholangio-Pancreatography
+Actual (Ground Truth) : ERCP → ['endoscopic retrograde cholangiopancreatogram']
+📏 Cosine Similarity   : 0.929
+🎯 Match               : ✔️
+================================================================================
+Index                 : 251
+Acronym               : SGS
+Predicted             : SGS → Supra-Griseozlin Syndrome
+Actual (Ground Truth) : SGS → ['stratum griseum superficiale']
+📏 Cosine Similarity   : 0.146
+🎯 Match               : ❌
+================================================================================
+Index                 : 252
+Acronym               : PFCs
+Predicted             : PFCs → Perfluorocarbons
+Actual (Ground Truth) : PFCs → ['perfluorochemicals']
+📏 Cosine Similarity   : 0.892
+🎯 Match               : ✔️
+================================================================================
+Index                 : 253
+Acronym               : ENL
+Predicted             : ENL → Endoneural Leukocytoclastic Variant
+Actual (Ground Truth) : ENL → ['erythema nodosum leprosum']
+📏 Cosine Similarity   : 0.223
+🎯 Match               : ❌
+================================================================================
+Index                 : 254
+Acronym               : PANSS
+Predicted             : PANSS → Positive and Negative Syndrome Scale.
+Actual (Ground Truth) : PANSS → ['positive and negative syndrome scale']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 255
+Acronym               : HS
+Predicted             : HS → Hypoglycemic Syndrome
+Actual (Ground Truth) : HS → ['bedtime']
+📏 Cosine Similarity   : 0.198
+🎯 Match               : ❌
+================================================================================
+Index                 : 256
+Acronym               : CFTR
+Predicted             : CFTR → Cystic Fibrosis Transmembrane Conductance Regulator
+Actual (Ground Truth) : CFTR → ['cystic fibrosis transmembrane conductance regulator']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 257
+Acronym               : 17-OHP
+Predicted             : 17-OHP → 17-hydroxyprogesterone
+Actual (Ground Truth) : 17-OHP → ['ohprogesterone']
+📏 Cosine Similarity   : 0.654
+🎯 Match               : ❌
+================================================================================
+Index                 : 258
+Acronym               : MLCs
+Predicted             : MLCs → Most Likely Causes
+Actual (Ground Truth) : MLCs → ['lethal concentrations']
+📏 Cosine Similarity   : 0.305
+🎯 Match               : ❌
+================================================================================
+Index                 : 259
+Acronym               : ICP
+Predicted             : ICP → Intracellular Compartments Protein
+Actual (Ground Truth) : ICP → ['immunocompromised patients']
+📏 Cosine Similarity   : 0.106
+🎯 Match               : ❌
+================================================================================
+Index                 : 260
+Acronym               : NMD
+Predicted             : NMD → Nonsense-mediated mRNA decay
+Actual (Ground Truth) : NMD → ['nonsensemediated decay']
+📏 Cosine Similarity   : 0.868
+🎯 Match               : ✔️
+================================================================================
+Index                 : 261
+Acronym               : CT
+Predicted             : CT → Computed Tomography
+Actual (Ground Truth) : CT → ['chest tube']
+📏 Cosine Similarity   : 0.234
+🎯 Match               : ❌
+================================================================================
+Index                 : 262
+Acronym               : BDE
+Predicted             : BDE → Bond Dissociation Energy
+Actual (Ground Truth) : BDE → ['bond dissociation energy']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 263
+Acronym               : OTC
+Predicted             : OTC → Over-the-Counter
+Actual (Ground Truth) : OTC → ['oxytetracycline']
+📏 Cosine Similarity   : 0.125
+🎯 Match               : ❌
+================================================================================
+Index                 : 264
+Acronym               : AR
+Predicted             : AR → Autoimmune Recessive
+Actual (Ground Truth) : AR → ['autosomal recessive']
+📏 Cosine Similarity   : 0.435
+🎯 Match               : ❌
+================================================================================
+Index                 : 265
+Acronym               : DL
+Predicted             : DL → Digital Listening
+Actual (Ground Truth) : DL → ['dichotic listening']
+📏 Cosine Similarity   : 0.532
+🎯 Match               : ❌
+================================================================================
+Index                 : 266
+Acronym               : MEI
+Predicted             : MEI → Maintenance Energy Intake
+Actual (Ground Truth) : MEI → ['metabolizable energy intake']
+📏 Cosine Similarity   : 0.373
+🎯 Match               : ❌
+================================================================================
+Index                 : 267
+Acronym               : CNAs
+Predicted             : CNAs → Certified Nursing Assistants
+Actual (Ground Truth) : CNAs → ['certified nursing assistants']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 268
+Acronym               : CTP
+Predicted             : CTP → Computed Tomographic Perfusion.
+Actual (Ground Truth) : CTP → ['ct perfusion']
+📏 Cosine Similarity   : 0.637
+🎯 Match               : ❌
+================================================================================
+Index                 : 269
+Acronym               : CC
+Predicted             : CC → Cholangiocarcinoma
+Actual (Ground Truth) : CC → ['cholangiocarcinomas']
+📏 Cosine Similarity   : 0.970
+🎯 Match               : ✔️
+================================================================================
+Index                 : 270
+Acronym               : OMP
+Predicted             : OMP → Oligomeric Membrane Protein
+Actual (Ground Truth) : OMP → ['olfactory marker protein']
+📏 Cosine Similarity   : 0.454
+🎯 Match               : ❌
+================================================================================
+Index                 : 271
+Acronym               : sFlt-1
+Predicted             : sFlt-1 → Soluble Flt-1
+Actual (Ground Truth) : sFlt-1 → ['soluble receptor']
+📏 Cosine Similarity   : 0.606
+🎯 Match               : ❌
+================================================================================
+Index                 : 272
+Acronym               : SEF
+Predicted             : SEF → Solitary Extraskeletal Fibrosarcoma
+Actual (Ground Truth) : SEF → ['sclerosing epithelioid fibrosarcoma']
+📏 Cosine Similarity   : 0.703
+🎯 Match               : ❌
+================================================================================
+Index                 : 273
+Acronym               : KA
+Predicted             : KA → Kapurthala Age
+Actual (Ground Truth) : KA → ['kalaazar']
+📏 Cosine Similarity   : 0.516
+🎯 Match               : ❌
+================================================================================
+Index                 : 274
+Acronym               : EV
+Predicted             : EV → Endoscopic Variceal Ligation.
+Actual (Ground Truth) : EV → ['esophageal varices']
+📏 Cosine Similarity   : 0.498
+🎯 Match               : ❌
+================================================================================
+Index                 : 275
+Acronym               : EITB
+Predicted             : EITB → Enzyme-Linked Immunosorbent Assay for Blood
+Actual (Ground Truth) : EITB → ['blot technique']
+📏 Cosine Similarity   : 0.083
+🎯 Match               : ❌
+================================================================================
+Index                 : 276
+Acronym               : IDD
+Predicted             : IDD → Impaired Glucose Tolerance
+Actual (Ground Truth) : IDD → ['insulindependent diabetes mellitus']
+📏 Cosine Similarity   : 0.452
+🎯 Match               : ❌
+================================================================================
+Index                 : 277
+Acronym               : RA
+Predicted             : RA → Radial Artery
+Actual (Ground Truth) : RA → ['rectus abdominis']
+📏 Cosine Similarity   : 0.220
+🎯 Match               : ❌
+================================================================================
+Index                 : 278
+Acronym               : PML
+Predicted             : PML → Progressive Multifocal Leukoencephalopathy
+Actual (Ground Truth) : PML → ['progressive multifocal leukoencephalopathy']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 279
+Acronym               : AOA
+Predicted             : AOA → Aminooxyacetate
+Actual (Ground Truth) : AOA → ['aminooxyacetate']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 280
+Acronym               : MA
+Predicted             : MA → Verbal Memory Ability
+Actual (Ground Truth) : MA → ['mental age']
+📏 Cosine Similarity   : 0.368
+🎯 Match               : ❌
+================================================================================
+Index                 : 281
+Acronym               : EM
+Predicted             : EM → Emergency Medicine
+Actual (Ground Truth) : EM → ['emergency medicine']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 282
+Acronym               : CCP
+Predicted             : CCP → Coproporphyrinogen III Cycle Protein
+Actual (Ground Truth) : CCP → ['cytochrome c peroxidase']
+📏 Cosine Similarity   : 0.268
+🎯 Match               : ❌
+================================================================================
+Index                 : 283
+Acronym               : sm
+Predicted             : sm → Smoking Habit
+Actual (Ground Truth) : sm → ['smokers']
+📏 Cosine Similarity   : 0.543
+🎯 Match               : ❌
+================================================================================
+Index                 : 284
+Acronym               : AR
+Predicted             : AR → Active Recovery
+Actual (Ground Truth) : AR → ['active recovery']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 285
+Acronym               : SRT
+Predicted             : SRT → Simple Reaction Time
+Actual (Ground Truth) : SRT → ['simple reaction time']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 286
+Acronym               : OPV
+Predicted             : OPV → Oryctolagus cuniculus virus.
+Actual (Ground Truth) : OPV → ['orthopoxvirus']
+📏 Cosine Similarity   : 0.749
+🎯 Match               : ❌
+================================================================================
+Index                 : 287
+Acronym               : BA
+Predicted             : BA → Benzaldehyde Azide
+Actual (Ground Truth) : BA → ['benzaldehyde']
+📏 Cosine Similarity   : 0.932
+🎯 Match               : ✔️
+================================================================================
+Index                 : 288
+Acronym               : TBPS
+Predicted             : TBPS → [3-((2,5-dimethyl-1H-benzimidazol-1-yl)methyl)phenyl]methyl]-3-hydroxy-N-(2,4-dimethylphenyl)-2-propenamide, Full Form.
+Actual (Ground Truth) : TBPS → ['tbutylbicyclophosphorothionate']
+📏 Cosine Similarity   : 0.356
+🎯 Match               : ❌
+================================================================================
+Index                 : 289
+Acronym               : UEDVT
+Predicted             : UEDVT → Ultrasound-guided Endovascular Directed Thrombolysis.
+Actual (Ground Truth) : UEDVT → ['deep vein thrombosis']
+📏 Cosine Similarity   : 0.178
+🎯 Match               : ❌
+================================================================================
+Index                 : 290
+Acronym               : CPIB
+Predicted             : CPIB → 4-Cinchonidine-2-carboxylic acid
+Actual (Ground Truth) : CPIB → ['clofibric acid']
+📏 Cosine Similarity   : 0.382
+🎯 Match               : ❌
+================================================================================
+Index                 : 291
+Acronym               : VPL
+Predicted             : VPL → Ventral Posterior Lateral
+Actual (Ground Truth) : VPL → ['ventral posterior lateral']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 292
+Acronym               : LT
+Predicted             : LT → Long Thoracic
+Actual (Ground Truth) : LT → ['lowthreshold']
+📏 Cosine Similarity   : 0.202
+🎯 Match               : ❌
+================================================================================
+Index                 : 293
+Acronym               : RPLC
+Predicted             : RPLC → Reversed-Phase Liquid Chromatography
+Actual (Ground Truth) : RPLC → ['reversedphase liquid chromatography']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 294
+Acronym               : BB
+Predicted             : BB → Biofilm Bioassay
+Actual (Ground Truth) : BB → ['broth']
+📏 Cosine Similarity   : 0.176
+🎯 Match               : ❌
+================================================================================
+Index                 : 295
+Acronym               : i.v.
+Predicted             : i.v. → Intravenous
+Actual (Ground Truth) : i.v. → ['intravenous injection']
+📏 Cosine Similarity   : 0.875
+🎯 Match               : ✔️
+================================================================================
+Index                 : 296
+Acronym               : AC
+Predicted             : AC → Allergic Conjunctivitis
+Actual (Ground Truth) : AC → ['allergic conjunctivitis']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 297
+Acronym               : SRT
+Predicted             : SRT → Sludge Retention Time.
+Actual (Ground Truth) : SRT → ['solids retention time']
+📏 Cosine Similarity   : 0.407
+🎯 Match               : ✔️
+================================================================================
+Index                 : 298
+Acronym               : EUS
+Predicted             : EUS → Endoscopic Ultrasound
+Actual (Ground Truth) : EUS → ['endoscopic ultrasonography']
+📏 Cosine Similarity   : 0.851
+🎯 Match               : ✔️
+================================================================================
+Index                 : 299
+Acronym               : ER
+Predicted             : ER → Extension and Rotation
+Actual (Ground Truth) : ER → ['external rotation']
+📏 Cosine Similarity   : 0.475
+🎯 Match               : ❌
+================================================================================
+Index                 : 300
+Acronym               : EC
+Predicted             : EC → European Commission
+Actual (Ground Truth) : EC → ['european commission']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 301
+Acronym               : PFG
+Predicted             : PFG → Pulsed Field Gradient
+Actual (Ground Truth) : PFG → ['pulsed field gradient']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 302
+Acronym               : ICAM-1
+Predicted             : ICAM-1 → Intercellular Adhesion Molecule-1
+Actual (Ground Truth) : ICAM-1 → ['intercellular adhesion molecule']
+📏 Cosine Similarity   : 0.940
+🎯 Match               : ✔️
+================================================================================
+Index                 : 303
+Acronym               : Tc
+Predicted             : Tc → Glass Transition Temperature
+Actual (Ground Truth) : Tc → ['transition temperatures']
+📏 Cosine Similarity   : 0.426
+🎯 Match               : ✔️
+================================================================================
+Index                 : 304
+Acronym               : NAG
+Predicted             : NAG → N-acetyl-beta-D-glucosaminidase.
+Actual (Ground Truth) : NAG → ['nacetylglucosaminidase']
+📏 Cosine Similarity   : 0.931
+🎯 Match               : ✔️
+================================================================================
+Index                 : 305
+Acronym               : TD
+Predicted             : TD → Threshold Dose
+Actual (Ground Truth) : TD → ['total dose']
+📏 Cosine Similarity   : 0.560
+🎯 Match               : ❌
+================================================================================
+Index                 : 306
+Acronym               : PG
+Predicted             : PG → Pancreatic Juice
+Actual (Ground Truth) : PG → ['pancreatic glucagon']
+📏 Cosine Similarity   : 0.796
+🎯 Match               : ❌
+================================================================================
+Index                 : 307
+Acronym               : PEs
+Predicted             : PEs → Phthalate Esters
+Actual (Ground Truth) : PEs → ['phthalate esters']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 308
+Acronym               : DSP
+Predicted             : DSP → Daily Sperm Production
+Actual (Ground Truth) : DSP → ['daily sperm production']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 309
+Acronym               : CMA
+Predicted             : CMA → Common Mesenteric Artery
+Actual (Ground Truth) : CMA → ['mesenteric artery']
+📏 Cosine Similarity   : 0.535
+🎯 Match               : ✔️
+================================================================================
+Index                 : 310
+Acronym               : con
+Predicted             : con → Clinical Outcome Non-inferiority
+Actual (Ground Truth) : con → ['control trial']
+📏 Cosine Similarity   : 0.176
+🎯 Match               : ❌
+================================================================================
+Index                 : 311
+Acronym               : PAR-2
+Predicted             : PAR-2 → Protease-Activated Receptor 2
+Actual (Ground Truth) : PAR-2 → ['proteaseactivated receptor']
+📏 Cosine Similarity   : 0.957
+🎯 Match               : ✔️
+================================================================================
+Index                 : 312
+Acronym               : HA
+Predicted             : HA → Bone Mineral Density
+Actual (Ground Truth) : HA → ['height age']
+📏 Cosine Similarity   : 0.160
+🎯 Match               : ❌
+================================================================================
+Index                 : 313
+Acronym               : PDA
+Predicted             : PDA → Potato Dextrose Agar
+Actual (Ground Truth) : PDA → ['potato dextrose agar']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 314
+Acronym               : RIF
+Predicted             : RIF → Renal Interstitial Fibrosis
+Actual (Ground Truth) : RIF → ['renal interstitial fibrosis']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 315
+Acronym               : TE
+Predicted             : TE → Testosterone Enanthate
+Actual (Ground Truth) : TE → ['testosterone enanthate']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 316
+Acronym               : MACS
+Predicted             : MACS → Multiplexed Activation of Cell Sorting.
+Actual (Ground Truth) : MACS → ['cell sorter']
+📏 Cosine Similarity   : 0.310
+🎯 Match               : ❌
+================================================================================
+Index                 : 317
+Acronym               : W/A
+Predicted             : W/A → Weight for Age
+Actual (Ground Truth) : W/A → ['weight for age']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 318
+Acronym               : GP
+Predicted             : GP → Gossypol
+Actual (Ground Truth) : GP → ['gossypol']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 319
+Acronym               : GA
+Predicted             : GA → Galactocerebroside
+Actual (Ground Truth) : GA → ['golgi apparatus']
+📏 Cosine Similarity   : 0.337
+🎯 Match               : ❌
+================================================================================
+Index                 : 320
+Acronym               : MWM
+Predicted             : MWM → Morris Water Maze.
+Actual (Ground Truth) : MWM → ['morris water maze']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 321
+Acronym               : RCP
+Predicted             : RCP → Radiolabeled Chemical Probe
+Actual (Ground Truth) : RCP → ['radiochemical purity']
+📏 Cosine Similarity   : 0.453
+🎯 Match               : ❌
+================================================================================
+Index                 : 322
+Acronym               : CS
+Predicted             : CS → Carotid Stenosis
+Actual (Ground Truth) : CS → ['carotid stenting']
+📏 Cosine Similarity   : 0.755
+🎯 Match               : ✔️
+================================================================================
+Index                 : 323
+Acronym               : CB
+Predicted             : CB → Transrectal Core Biopsy
+Actual (Ground Truth) : CB → ['core biopsy']
+📏 Cosine Similarity   : 0.576
+🎯 Match               : ❌
+================================================================================
+Index                 : 324
+Acronym               : CS
+Predicted             : CS → Celiac Sprue
+Actual (Ground Truth) : CS → ['celiac sprue']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 325
+Acronym               : SE
+Predicted             : SE → Secondary Embolism
+Actual (Ground Truth) : SE → ['secondary erythrocytosis']
+📏 Cosine Similarity   : 0.658
+🎯 Match               : ❌
+================================================================================
+Index                 : 326
+Acronym               : SUA
+Predicted             : SUA → SubUmbilicalAccretions
+Actual (Ground Truth) : SUA → ['single umbilical artery']
+📏 Cosine Similarity   : 0.487
+🎯 Match               : ❌
+================================================================================
+Index                 : 327
+Acronym               : i.pl.
+Predicted             : i.pl. → Intraperitoneal injection
+Actual (Ground Truth) : i.pl. → ['intraplantar']
+📏 Cosine Similarity   : 0.515
+🎯 Match               : ❌
+================================================================================
+Index                 : 328
+Acronym               : hGH
+Predicted             : hGH → Human Growth Hormone
+Actual (Ground Truth) : hGH → ['human growth hormone']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 329
+Acronym               : MA
+Predicted             : MA → Microtiter Plate Agglutination
+Actual (Ground Truth) : MA → ['microagglutination']
+📏 Cosine Similarity   : 0.764
+🎯 Match               : ❌
+================================================================================
+Index                 : 330
+Acronym               : ARVD
+Predicted             : ARVD → Atherosclerotic Renal Vascular Disease
+Actual (Ground Truth) : ARVD → ['atherosclerotic renovascular disease']
+📏 Cosine Similarity   : 0.693
+🎯 Match               : ✔️
+================================================================================
+Index                 : 331
+Acronym               : HACE
+Predicted             : HACE → Hepatic Arterial Chemoembolization
+Actual (Ground Truth) : HACE → ['hepatic artery chemoembolization']
+📏 Cosine Similarity   : 0.924
+🎯 Match               : ✔️
+================================================================================
+Index                 : 332
+Acronym               : LDA
+Predicted             : LDA → Low Dose Aspirin
+Actual (Ground Truth) : LDA → ['lowdose aspirin']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 333
+Acronym               : HSA
+Predicted             : HSA → Human Serum Albumin
+Actual (Ground Truth) : HSA → ['human salivary alphaamylase']
+📏 Cosine Similarity   : 0.408
+🎯 Match               : ❌
+================================================================================
+Index                 : 334
+Acronym               : MM
+Predicted             : MM → Malaria and Jet Lag Syndrome
+Actual (Ground Truth) : MM → ['meningococcal meningitis']
+📏 Cosine Similarity   : 0.185
+🎯 Match               : ❌
+================================================================================
+Index                 : 335
+Acronym               : EAC
+Predicted             : EAC → Endometrial Arterial Cord
+Actual (Ground Truth) : EAC → ['external auditory canal']
+📏 Cosine Similarity   : 0.129
+🎯 Match               : ❌
+================================================================================
+Index                 : 336
+Acronym               : Gal
+Predicted             : Gal → Galactose.
+Actual (Ground Truth) : Gal → ['galactose']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 337
+Acronym               : VN
+Predicted             : VN → Vocal Nerve
+Actual (Ground Truth) : VN → ['vagus nerve']
+📏 Cosine Similarity   : 0.441
+🎯 Match               : ❌
+================================================================================
+Index                 : 338
+Acronym               : 2-DG
+Predicted             : 2-DG → 2-deoxy-D-glucose
+Actual (Ground Truth) : 2-DG → ['hdeoxyglucose']
+📏 Cosine Similarity   : 0.771
+🎯 Match               : ✔️
+================================================================================
+Index                 : 339
+Acronym               : BC
+Predicted             : BC → Body Condition.
+Actual (Ground Truth) : BC → ['body condition']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 340
+Acronym               : Neuro-2a
+Predicted             : Neuro-2a → Neuroblastoma cell line
+Actual (Ground Truth) : Neuro-2a → ['neuroblastoma cell line']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 341
+Acronym               : HRS
+Predicted             : HRS → Hyperemesis Gravidarum Syndrome
+Actual (Ground Truth) : HRS → ['hepatorenal syndrome']
+📏 Cosine Similarity   : 0.231
+🎯 Match               : ❌
+================================================================================
+Index                 : 342
+Acronym               : LE
+Predicted             : LE → Lymphatic Endothelium
+Actual (Ground Truth) : LE → ['lymphedema']
+📏 Cosine Similarity   : 0.713
+🎯 Match               : ❌
+================================================================================
+Index                 : 343
+Acronym               : exp
+Predicted             : exp → Experimental
+Actual (Ground Truth) : exp → ['two experiments']
+📏 Cosine Similarity   : 0.214
+🎯 Match               : ❌
+================================================================================
+Index                 : 344
+Acronym               : BFM
+Predicted             : BFM → Body Fat Mass
+Actual (Ground Truth) : BFM → ['body fat mass']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 345
+Acronym               : MDCK
+Predicted             : MDCK → Madin-Darby canine kidney cells.
+Actual (Ground Truth) : MDCK → ['madindarby canine kidney']
+📏 Cosine Similarity   : 0.879
+🎯 Match               : ✔️
+================================================================================
+Index                 : 346
+Acronym               : T1
+Predicted             : T1 → Spin-Lattice Relaxation Time
+Actual (Ground Truth) : T1 → ['spinlattice relaxation']
+📏 Cosine Similarity   : 0.816
+🎯 Match               : ✔️
+================================================================================
+Index                 : 347
+Acronym               : MFs
+Predicted             : MFs → Magnetic Fermi Pairs
+Actual (Ground Truth) : MFs → ['magnetic fields']
+📏 Cosine Similarity   : 0.606
+🎯 Match               : ❌
+================================================================================
+Index                 : 348
+Acronym               : BUN
+Predicted             : BUN → Blood Urea Nitrogen
+Actual (Ground Truth) : BUN → ['blood urea nitrogen']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 349
+Acronym               : HPH
+Predicted             : HPH → Hypoxia-Induced Pulmonary Hypertension
+Actual (Ground Truth) : HPH → ['hypoxic pulmonary hypertension']
+📏 Cosine Similarity   : 0.874
+🎯 Match               : ✔️
+================================================================================
+Index                 : 350
+Acronym               : Tg
+Predicted             : Tg → Transgene.
+Actual (Ground Truth) : Tg → ['transgene']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 351
+Acronym               : ND
+Predicted             : ND → Nocodazole.
+Actual (Ground Truth) : ND → ['nocodazole']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 352
+Acronym               : DP
+Predicted             : DP → Diastolic Pressure
+Actual (Ground Truth) : DP → ['double product']
+📏 Cosine Similarity   : 0.045
+🎯 Match               : ❌
+================================================================================
+Index                 : 353
+Acronym               : EH
+Predicted             : EH → Endothelial Dysfunction
+Actual (Ground Truth) : EH → ['essential hypertensive patients']
+📏 Cosine Similarity   : 0.153
+🎯 Match               : ❌
+================================================================================
+Index                 : 354
+Acronym               : ETF
+Predicted             : ETF → Expanded Full Form:
+Actual (Ground Truth) : ETF → ['enteral tube feeding']
+📏 Cosine Similarity   : 0.170
+🎯 Match               : ❌
+================================================================================
+Index                 : 355
+Acronym               : Al
+Predicted             : Al → Aluminium
+Actual (Ground Truth) : Al → ['albumin']
+📏 Cosine Similarity   : 0.242
+🎯 Match               : ❌
+================================================================================
+Index                 : 356
+Acronym               : CS
+Predicted             : CS → Chondrosarcoma of the Skull Base
+Actual (Ground Truth) : CS → ['cavernous sinus']
+📏 Cosine Similarity   : 0.393
+🎯 Match               : ❌
+================================================================================
+Index                 : 357
+Acronym               : GSV
+Predicted             : GSV → Great Saphenous Vein
+Actual (Ground Truth) : GSV → ['great saphenous vein']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 358
+Acronym               : CD
+Predicted             : CD → Controlled Diet
+Actual (Ground Truth) : CD → ['cardiac denervation']
+📏 Cosine Similarity   : 0.192
+🎯 Match               : ❌
+================================================================================
+Index                 : 359
+Acronym               : AIs
+Predicted             : AIs → Amino Acid Interactions
+Actual (Ground Truth) : AIs → ['asymmetry indices']
+📏 Cosine Similarity   : 0.128
+🎯 Match               : ❌
+================================================================================
+Index                 : 360
+Acronym               : ALS
+Predicted             : ALS → Acetolactate Synthase
+Actual (Ground Truth) : ALS → ['acetolactate synthase']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 361
+Acronym               : BW
+Predicted             : BW → Bronchoalveolar lavage.
+Actual (Ground Truth) : BW → ['bronchial washings']
+📏 Cosine Similarity   : 0.536
+🎯 Match               : ❌
+================================================================================
+Index                 : 362
+Acronym               : CR3
+Predicted             : CR3 → Complement Receptor 3
+Actual (Ground Truth) : CR3 → ['cbi receptor']
+📏 Cosine Similarity   : 0.562
+🎯 Match               : ❌
+================================================================================
+Index                 : 363
+Acronym               : HV
+Predicted             : HV → Human Variant
+Actual (Ground Truth) : HV → ['hypervariable']
+📏 Cosine Similarity   : 0.437
+🎯 Match               : ❌
+================================================================================
+Index                 : 364
+Acronym               : CPCs
+Predicted             : CPCs → Cerebral Plexus Choroid Tumors
+Actual (Ground Truth) : CPCs → ['choroid plexus carcinomas']
+📏 Cosine Similarity   : 0.515
+🎯 Match               : ❌
+================================================================================
+Index                 : 365
+Acronym               : TFI
+Predicted             : TFI → Time to First Infection
+Actual (Ground Truth) : TFI → ['treatmentfree interval']
+📏 Cosine Similarity   : 0.266
+🎯 Match               : ❌
+================================================================================
+Index                 : 366
+Acronym               : BBS
+Predicted             : BBS → Bardet-Biedl Syndrome
+Actual (Ground Truth) : BBS → ['bardetbiedl syndrome']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 367
+Acronym               : Hh
+Predicted             : Hh → Hedgehog
+Actual (Ground Truth) : Hh → ['hedgehog']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 368
+Acronym               : gl
+Predicted             : gl → Glycemic Index
+Actual (Ground Truth) : gl → ['glucose']
+📏 Cosine Similarity   : 0.490
+🎯 Match               : ❌
+================================================================================
+Index                 : 369
+Acronym               : LF
+Predicted             : LF → Lipofuscinosis
+Actual (Ground Truth) : LF → ['lipofuscin']
+📏 Cosine Similarity   : 0.697
+🎯 Match               : ✔️
+================================================================================
+Index                 : 370
+Acronym               : GMTs
+Predicted             : GMTs → Geometric Mean Titers.
+Actual (Ground Truth) : GMTs → ['geometric mean titers']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 371
+Acronym               : OCT
+Predicted             : OCT → Optical Coherence Tomography
+Actual (Ground Truth) : OCT → ['optical coherence tomography']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 372
+Acronym               : LP
+Predicted             : LP → Low-density lipoprotein.
+Actual (Ground Truth) : LP → ['serum lipoprotein']
+📏 Cosine Similarity   : 0.701
+🎯 Match               : ❌
+================================================================================
+Index                 : 373
+Acronym               : MG
+Predicted             : MG → Microgravity.
+Actual (Ground Truth) : MG → ['microgravity']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 374
+Acronym               : att
+Predicted             : att → Anterior Tibial Tubercle
+Actual (Ground Truth) : att → ['attachment site']
+📏 Cosine Similarity   : 0.131
+🎯 Match               : ❌
+================================================================================
+Index                 : 375
+Acronym               : CT
+Predicted             : CT → Counter Transport
+Actual (Ground Truth) : CT → ['countertransport']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 376
+Acronym               : EDP
+Predicted             : EDP → Extracellular Domain of Proteins
+Actual (Ground Truth) : EDP → ['elastinderived peptides']
+📏 Cosine Similarity   : 0.275
+🎯 Match               : ❌
+================================================================================
+Index                 : 377
+Acronym               : EDs
+Predicted             : EDs → Endocrine Disruptors
+Actual (Ground Truth) : EDs → ['endocrine disrupters']
+📏 Cosine Similarity   : 0.960
+🎯 Match               : ✔️
+================================================================================
+Index                 : 378
+Acronym               : MSD
+Predicted             : MSD → Mean Settling Distance
+Actual (Ground Truth) : MSD → ['displacement']
+📏 Cosine Similarity   : 0.279
+🎯 Match               : ❌
+================================================================================
+Index                 : 379
+Acronym               : FOB
+Predicted             : FOB → Full Form: Fecal Occult Blood
+Actual (Ground Truth) : FOB → ['faecal occult blood']
+📏 Cosine Similarity   : 0.615
+🎯 Match               : ❌
+================================================================================
+Index                 : 380
+Acronym               : cAMP
+Predicted             : cAMP → cyclic adenosine monophosphate
+Actual (Ground Truth) : cAMP → ['adenosine cyclic monophosphate']
+📏 Cosine Similarity   : 0.708
+🎯 Match               : ❌
+================================================================================
+Index                 : 381
+Acronym               : IFT
+Predicted             : IFT → Intracellular Transport
+Actual (Ground Truth) : IFT → ['intraflagellar transport']
+📏 Cosine Similarity   : 0.569
+🎯 Match               : ✔️
+================================================================================
+Index                 : 382
+Acronym               : CREB
+Predicted             : CREB → CREB-binding protein
+Actual (Ground Truth) : CREB → ['element binding']
+📏 Cosine Similarity   : 0.349
+🎯 Match               : ❌
+================================================================================
+Index                 : 383
+Acronym               : CBF
+Predicted             : CBF → Cerebral Blood Flow
+Actual (Ground Truth) : CBF → ['cerebral']
+📏 Cosine Similarity   : 0.637
+🎯 Match               : ❌
+================================================================================
+Index                 : 384
+Acronym               : SPD
+Predicted             : SPD → Structured Psychopathic Disorder
+Actual (Ground Truth) : SPD → ['schizotypal personality disorder']
+📏 Cosine Similarity   : 0.598
+🎯 Match               : ❌
+================================================================================
+Index                 : 385
+Acronym               : RS
+Predicted             : RS → Remote Sensing
+Actual (Ground Truth) : RS → ['remote sensing']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 386
+Acronym               : DT
+Predicted             : DT → Dermatofibroma
+Actual (Ground Truth) : DT → ['desmoid tumor']
+📏 Cosine Similarity   : 0.236
+🎯 Match               : ❌
+================================================================================
+Index                 : 387
+Acronym               : VEE
+Predicted             : VEE → Viral Encephalomyelitis
+Actual (Ground Truth) : VEE → ['venezuelan equine encephalitis']
+📏 Cosine Similarity   : 0.469
+🎯 Match               : ❌
+================================================================================
+Index                 : 388
+Acronym               : PNPase
+Predicted             : PNPase → Nucleoside Diphosphate Polyribonucleotide Nucleotidyltransferase
+Actual (Ground Truth) : PNPase → ['polynucleotide phosphorylase']
+📏 Cosine Similarity   : 0.593
+🎯 Match               : ❌
+================================================================================
+Index                 : 389
+Acronym               : PNa
+Predicted             : PNa → Plasma Na
+Actual (Ground Truth) : PNa → ['plasma sodium']
+📏 Cosine Similarity   : 0.659
+🎯 Match               : ❌
+================================================================================
+Index                 : 390
+Acronym               : BS
+Predicted             : BS → Brain Stem
+Actual (Ground Truth) : BS → ['brain stem']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 391
+Acronym               : CD
+Predicted             : CD → Choline-Deficient Diet.
+Actual (Ground Truth) : CD → ['choline deficiency']
+📏 Cosine Similarity   : 0.881
+🎯 Match               : ✔️
+================================================================================
+Index                 : 392
+Acronym               : UA
+Predicted             : UA → Uterine Artery
+Actual (Ground Truth) : UA → ['uterine arteries']
+📏 Cosine Similarity   : 0.953
+🎯 Match               : ✔️
+================================================================================
+Index                 : 393
+Acronym               : ED
+Predicted             : ED → Endogenous Depression
+Actual (Ground Truth) : ED → ['endogenous depression']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 394
+Acronym               : TDF
+Predicted             : TDF → Disoproxyl Fumarate
+Actual (Ground Truth) : TDF → ['tenofovir']
+📏 Cosine Similarity   : 0.211
+🎯 Match               : ❌
+================================================================================
+Index                 : 395
+Acronym               : STC
+Predicted             : STC → Serum Triglyceride and Cholesterol
+Actual (Ground Truth) : STC → ['serum total cholesterol']
+📏 Cosine Similarity   : 0.781
+🎯 Match               : ❌
+================================================================================
+Index                 : 396
+Acronym               : TM
+Predicted             : TM → Transmembrane region
+Actual (Ground Truth) : TM → ['transmembrane']
+📏 Cosine Similarity   : 0.861
+🎯 Match               : ✔️
+================================================================================
+Index                 : 397
+Acronym               : HL
+Predicted             : HL → Heat Shock Proteins
+Actual (Ground Truth) : HL → ['human lymphocytes']
+📏 Cosine Similarity   : 0.366
+🎯 Match               : ❌
+================================================================================
+Index                 : 398
+Acronym               : BT
+Predicted             : BT → Brain Tumor
+Actual (Ground Truth) : BT → ['brain tumors']
+📏 Cosine Similarity   : 0.898
+🎯 Match               : ✔️
+================================================================================
+Index                 : 399
+Acronym               : CS
+Predicted             : CS → Common Wheat.
+Actual (Ground Truth) : CS → ['chinese spring']
+📏 Cosine Similarity   : 0.294
+🎯 Match               : ❌
+================================================================================
+Index                 : 400
+Acronym               : GI
+Predicted             : GI → Glucose-Induced
+Actual (Ground Truth) : GI → ['glucagon immunoreactivity']
+📏 Cosine Similarity   : 0.364
+🎯 Match               : ❌
+================================================================================
+Index                 : 401
+Acronym               : DHPG
+Predicted             : DHPG → Dihydroxyphenylglycine
+Actual (Ground Truth) : DHPG → ['agonist rsdihydroxyphenylglycine']
+📏 Cosine Similarity   : 0.813
+🎯 Match               : ✔️
+================================================================================
+Index                 : 402
+Acronym               : VD
+Predicted             : VD → Voiding Dysfunction
+Actual (Ground Truth) : VD → ['voiding dysfunction']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 403
+Acronym               : L1
+Predicted             : L1 → minor dysthymic and subsyndromal PS.
+Actual (Ground Truth) : L1 → ['major']
+📏 Cosine Similarity   : 0.140
+🎯 Match               : ❌
+================================================================================
+Index                 : 404
+Acronym               : CCT
+Predicted             : CCT → Computed Tomography
+Actual (Ground Truth) : CCT → ['conventional ct']
+📏 Cosine Similarity   : 0.178
+🎯 Match               : ❌
+================================================================================
+Index                 : 405
+Acronym               : TE
+Predicted             : TE → Transferase Enzyme
+Actual (Ground Truth) : TE → ['tracheoesophageal']
+📏 Cosine Similarity   : 0.094
+🎯 Match               : ❌
+================================================================================
+Index                 : 406
+Acronym               : PCD
+Predicted             : PCD → Programmed Cell Death
+Actual (Ground Truth) : PCD → ['programmed cell death']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 407
+Acronym               : HF
+Predicted             : HF → High Fat
+Actual (Ground Truth) : HF → ['high fat']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 408
+Acronym               : ORT
+Predicted             : ORT → Oral Rehydration Therapy
+Actual (Ground Truth) : ORT → ['oral rehydration therapy']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 409
+Acronym               : Ni
+Predicted             : Ni → Nickel
+Actual (Ground Truth) : Ni → ['nickel']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 410
+Acronym               : GN
+Predicted             : GN → Guanosine.
+Actual (Ground Truth) : GN → ['guanine nucleotides']
+📏 Cosine Similarity   : 0.582
+🎯 Match               : ❌
+================================================================================
+Index                 : 411
+Acronym               : MTs
+Predicted             : MTs → Microtubules
+Actual (Ground Truth) : MTs → ['microtubules']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 412
+Acronym               : CFA
+Predicted             : CFA → Complete Freund's Adjuvant
+Actual (Ground Truth) : CFA → ['complete freunds adjuvant']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 413
+Acronym               : hGH
+Predicted             : hGH → Human Growth Hormone
+Actual (Ground Truth) : hGH → ['human growth hormone']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 414
+Acronym               : HbS
+Predicted             : HbS → Sickle Hemoglobin
+Actual (Ground Truth) : HbS → ['sickle hemoglobin']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 415
+Acronym               : DM
+Predicted             : DM → Diabetes Mellitus
+Actual (Ground Truth) : DM → ['differentiation medium']
+📏 Cosine Similarity   : 0.209
+🎯 Match               : ❌
+================================================================================
+Index                 : 416
+Acronym               : PC1
+Predicted             : PC1 → Postural Control Index
+Actual (Ground Truth) : PC1 → ['first principal component']
+📏 Cosine Similarity   : 0.222
+🎯 Match               : ❌
+================================================================================
+Index                 : 417
+Acronym               : SUA
+Predicted             : SUA → Serum Uric Acid
+Actual (Ground Truth) : SUA → ['serum uric acid']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 418
+Acronym               : PR
+Predicted             : PR → Photoreactivation Repair
+Actual (Ground Truth) : PR → ['photoreactivation']
+📏 Cosine Similarity   : 0.917
+🎯 Match               : ✔️
+================================================================================
+Index                 : 419
+Acronym               : HD
+Predicted             : HD → Hodgkin's Disease
+Actual (Ground Truth) : HD → ['hodgkins']
+📏 Cosine Similarity   : 0.869
+🎯 Match               : ✔️
+================================================================================
+Index                 : 420
+Acronym               : IP3
+Predicted             : IP3 → Inositol 1,4,5-trisphosphate.
+Actual (Ground Truth) : IP3 → ['inositol phosphate']
+📏 Cosine Similarity   : 0.886
+🎯 Match               : ✔️
+================================================================================
+Index                 : 421
+Acronym               : MGD
+Predicted             : MGD → Mean Glandular Dose
+Actual (Ground Truth) : MGD → ['mean glandular dose']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 422
+Acronym               : CCP
+Predicted             : CCP → Cytochrome C Peroxidase
+Actual (Ground Truth) : CCP → ['cytochrome c peroxidase']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 423
+Acronym               : TC
+Predicted             : TC → Transcobalamin
+Actual (Ground Truth) : TC → ['transcobalamin']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 424
+Acronym               : LP
+Predicted             : LP → Link Protein
+Actual (Ground Truth) : LP → ['link protein']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 425
+Acronym               : MSSA
+Predicted             : MSSA → Methicillin-Sensitive Staphylococcus aureus
+Actual (Ground Truth) : MSSA → ['methicillinsensitive staphylococcus aureus']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 426
+Acronym               : PCW
+Predicted             : PCW → Pulmonary Capillary Wedge Pressure.
+Actual (Ground Truth) : PCW → ['pulmonary capillary wedge']
+📏 Cosine Similarity   : 0.941
+🎯 Match               : ✔️
+================================================================================
+Index                 : 427
+Acronym               : BZ
+Predicted             : BZ → Border Zone
+Actual (Ground Truth) : BZ → ['border zone']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 428
+Acronym               : HD
+Predicted             : HD → Hemodialysis
+Actual (Ground Truth) : HD → ['hemodialysis patients']
+📏 Cosine Similarity   : 0.823
+🎯 Match               : ✔️
+================================================================================
+Index                 : 429
+Acronym               : HF
+Predicted             : HF → Hypoxic Fraction.
+Actual (Ground Truth) : HF → ['hypoxic fraction']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 430
+Acronym               : CRP
+Predicted             : CRP → Complete Residual Performance
+Actual (Ground Truth) : CRP → ['cardiac rehabilitation program']
+📏 Cosine Similarity   : 0.124
+🎯 Match               : ❌
+================================================================================
+Index                 : 431
+Acronym               : HSP
+Predicted             : HSP → Hereditary Spastic Paraplegia
+Actual (Ground Truth) : HSP → ['hereditary spastic paraplegia']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 432
+Acronym               : BBdp
+Predicted             : BBdp → BioBreeding diabetes-prone
+Actual (Ground Truth) : BBdp → ['diabetesprone']
+📏 Cosine Similarity   : 0.637
+🎯 Match               : ❌
+================================================================================
+Index                 : 433
+Acronym               : BSI
+Predicted             : BSI → Blunt Splenic Injury
+Actual (Ground Truth) : BSI → ['blunt splenic injury']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 434
+Acronym               : RS
+Predicted             : RS → Pierre Robin Sequence
+Actual (Ground Truth) : RS → ['robin sequence']
+📏 Cosine Similarity   : 0.478
+🎯 Match               : ✔️
+================================================================================
+Index                 : 435
+Acronym               : TPN
+Predicted             : TPN → Total Parenteral Nutrition
+Actual (Ground Truth) : TPN → ['total parenteral nutrition']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 436
+Acronym               : RW
+Predicted             : RW → Reverse Osmosis
+Actual (Ground Truth) : RW → ['relative weight']
+📏 Cosine Similarity   : 0.052
+🎯 Match               : ❌
+================================================================================
+Index                 : 437
+Acronym               : ET
+Predicted             : ET → Endotracheal tube
+Actual (Ground Truth) : ET → ['endotracheal']
+📏 Cosine Similarity   : 0.889
+🎯 Match               : ✔️
+================================================================================
+Index                 : 438
+Acronym               : SOD
+Predicted             : SOD → Superoxide Dismutase
+Actual (Ground Truth) : SOD → ['superoxide dismutase enzyme']
+📏 Cosine Similarity   : 0.936
+🎯 Match               : ✔️
+================================================================================
+Index                 : 439
+Acronym               : LA
+Predicted             : LA → Local Anesthesia
+Actual (Ground Truth) : LA → ['local anaesthesia']
+📏 Cosine Similarity   : 0.645
+🎯 Match               : ✔️
+================================================================================
+Index                 : 440
+Acronym               : PA
+Predicted             : PA → Panic Attacks
+Actual (Ground Truth) : PA → ['panic attacks']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 441
+Acronym               : MDM2
+Predicted             : MDM2 → Mouse Double Minute 2
+Actual (Ground Truth) : MDM2 → ['double minute']
+📏 Cosine Similarity   : 0.347
+🎯 Match               : ✔️
+================================================================================
+Index                 : 442
+Acronym               : DTI
+Predicted             : DTI → Direct Thrombin Inhibitor
+Actual (Ground Truth) : DTI → ['direct thrombin inhibitor']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 443
+Acronym               : SK
+Predicted             : SK → Serum Potassium
+Actual (Ground Truth) : SK → ['serum potassium']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 444
+Acronym               : TAP
+Predicted             : TAP → Transporter Associated with Antigen Processing
+Actual (Ground Truth) : TAP → ['transporter associated with antigen processing']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 445
+Acronym               : MSCT
+Predicted             : MSCT → Multidetector Computed Tomography
+Actual (Ground Truth) : MSCT → ['multislice computed tomography']
+📏 Cosine Similarity   : 0.721
+🎯 Match               : ✔️
+================================================================================
+Index                 : 446
+Acronym               : AP
+Predicted             : AP → Antipsychotic.
+Actual (Ground Truth) : AP → ['antipsychotic']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 447
+Acronym               : PCs
+Predicted             : PCs → Plasma Cells
+Actual (Ground Truth) : PCs → ['plasma cells']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 448
+Acronym               : DCN
+Predicted             : DCN → Dorsal Cochlear Nucleus
+Actual (Ground Truth) : DCN → ['dorsal cochlear nucleus']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 449
+Acronym               : SAPK/JNK
+Predicted             : SAPK/JNK → c-Jun N-terminal kinase
+Actual (Ground Truth) : SAPK/JNK → ['stressactivated protein kinase']
+📏 Cosine Similarity   : 0.448
+🎯 Match               : ❌
+================================================================================
+Index                 : 450
+Acronym               : CCAM
+Predicted             : CCAM → Congenital Cerebral Anomalies and Malformations
+Actual (Ground Truth) : CCAM → ['congenital cystic adenomatoid malformation']
+📏 Cosine Similarity   : 0.701
+🎯 Match               : ❌
+================================================================================
+Index                 : 451
+Acronym               : WR
+Predicted             : WR → Washington Research
+Actual (Ground Truth) : WR → ['walter reed']
+📏 Cosine Similarity   : 0.276
+🎯 Match               : ❌
+================================================================================
+Index                 : 452
+Acronym               : HR
+Predicted             : HR → Human Growth Hormone
+Actual (Ground Truth) : HR → ['hormone receptor']
+📏 Cosine Similarity   : 0.332
+🎯 Match               : ❌
+================================================================================
+Index                 : 453
+Acronym               : Neuro-2a
+Predicted             : Neuro-2a → Neuronal-2a cells
+Actual (Ground Truth) : Neuro-2a → ['neuroblastoma cell line']
+📏 Cosine Similarity   : 0.462
+🎯 Match               : ❌
+================================================================================
+Index                 : 454
+Acronym               : TSAb
+Predicted             : TSAb → Total Testosterone and Sex Hormone Binding Globulin
+Actual (Ground Truth) : TSAb → ['thyroid stimulating']
+📏 Cosine Similarity   : 0.196
+🎯 Match               : ❌
+================================================================================
+Index                 : 455
+Acronym               : F1
+Predicted             : F1 → First Formant
+Actual (Ground Truth) : F1 → ['first formant']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 456
+Acronym               : SpA
+Predicted             : SpA → Spondyloarthritis
+Actual (Ground Truth) : SpA → ['spondyloarthritis']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 457
+Acronym               : MOX
+Predicted             : MOX → Moxidectin
+Actual (Ground Truth) : MOX → ['moxidectin']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 458
+Acronym               : Pc
+Predicted             : Pc → Primary Cord Blood
+Actual (Ground Truth) : Pc → ['corrected p']
+📏 Cosine Similarity   : 0.233
+🎯 Match               : ❌
+================================================================================
+Index                 : 459
+Acronym               : LS
+Predicted             : LS → Lung Surfactant
+Actual (Ground Truth) : LS → ['lung surfactant']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 460
+Acronym               : S1
+Predicted             : S1 → Soluble guanylyl cyclase
+Actual (Ground Truth) : S1 → ['myosin']
+📏 Cosine Similarity   : 0.300
+🎯 Match               : ❌
+================================================================================
+Index                 : 461
+Acronym               : CVR
+Predicted             : CVR → Cardiovascular Response
+Actual (Ground Truth) : CVR → ['cardiovascular reactivity']
+📏 Cosine Similarity   : 0.670
+🎯 Match               : ❌
+================================================================================
+Index                 : 462
+Acronym               : SpA
+Predicted             : SpA → Ankylosing Spondylitis
+Actual (Ground Truth) : SpA → ['spondyloarthritis']
+📏 Cosine Similarity   : 0.369
+🎯 Match               : ❌
+================================================================================
+Index                 : 463
+Acronym               : TM
+Predicted             : TM → Transient Receptor Potential Melastatin
+Actual (Ground Truth) : TM → ['tunicamycin']
+📏 Cosine Similarity   : 0.165
+🎯 Match               : ❌
+================================================================================
+Index                 : 464
+Acronym               : GHS
+Predicted             : GHS → General Household Survey
+Actual (Ground Truth) : GHS → ['general household survey']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 465
+Acronym               : TRAMP
+Predicted             : TRAMP → Transgenic Adenocarcinoma of Mouse Prostate
+Actual (Ground Truth) : TRAMP → ['transgenic adenocarcinoma of the mouse prostate']
+📏 Cosine Similarity   : 0.829
+🎯 Match               : ✔️
+================================================================================
+Index                 : 466
+Acronym               : TVR
+Predicted             : TVR → Target Vessel Revascularization
+Actual (Ground Truth) : TVR → ['target vessel revascularization']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 467
+Acronym               : NRK
+Predicted             : NRK → Normal Rat Kidney.
+Actual (Ground Truth) : NRK → ['normal rat kidney cells']
+📏 Cosine Similarity   : 0.774
+🎯 Match               : ✔️
+================================================================================
+Index                 : 468
+Acronym               : ET
+Predicted             : ET → Endometrial Thickness
+Actual (Ground Truth) : ET → ['endometrial thickness']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 469
+Acronym               : EC
+Predicted             : EC → Endoplasmic Reticulum
+Actual (Ground Truth) : EC → ['elongation complex']
+📏 Cosine Similarity   : 0.231
+🎯 Match               : ❌
+================================================================================
+Index                 : 470
+Acronym               : PO
+Predicted             : PO → Protein Oxidation
+Actual (Ground Truth) : PO → ['protein oxidation']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 471
+Acronym               : AFB
+Predicted             : AFB → Autologous Fat Breast
+Actual (Ground Truth) : AFB → ['aortofemoral bypass']
+📏 Cosine Similarity   : 0.295
+🎯 Match               : ❌
+================================================================================
+Index                 : 472
+Acronym               : SREs
+Predicted             : SREs → Spinal Radiation-induced Escalation
+Actual (Ground Truth) : SREs → ['skeletalrelated events']
+📏 Cosine Similarity   : 0.189
+🎯 Match               : ❌
+================================================================================
+Index                 : 473
+Acronym               : VL
+Predicted             : VL → Visual Linguistic
+Actual (Ground Truth) : VL → ['ventrolateral']
+📏 Cosine Similarity   : 0.177
+🎯 Match               : ❌
+================================================================================
+Index                 : 474
+Acronym               : CP
+Predicted             : CP → Ciliary Process.
+Actual (Ground Truth) : CP → ['ciliary processes']
+📏 Cosine Similarity   : 0.979
+🎯 Match               : ✔️
+================================================================================
+Index                 : 475
+Acronym               : TRC
+Predicted             : TRC → Tumour Renin Concentration
+Actual (Ground Truth) : TRC → ['total renin concentration']
+📏 Cosine Similarity   : 0.572
+🎯 Match               : ✔️
+================================================================================
+Index                 : 476
+Acronym               : MIT
+Predicted             : MIT → Minimal Model Insulin Tolerance Test
+Actual (Ground Truth) : MIT → ['injection therapy']
+📏 Cosine Similarity   : 0.093
+🎯 Match               : ❌
+================================================================================
+Index                 : 477
+Acronym               : ACP
+Predicted             : ACP → Advance Care Planning
+Actual (Ground Truth) : ACP → ['advance care planning']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 478
+Acronym               : beta-gal
+Predicted             : beta-gal → beta-galactosidase
+Actual (Ground Truth) : beta-gal → ['betagalactosidase gene']
+📏 Cosine Similarity   : 0.951
+🎯 Match               : ✔️
+================================================================================
+Index                 : 479
+Acronym               : SI
+Predicted             : SI → Sub cortical Internally projecting
+Actual (Ground Truth) : SI → ['substantia innominata']
+📏 Cosine Similarity   : 0.212
+🎯 Match               : ❌
+================================================================================
+Index                 : 480
+Acronym               : IMB
+Predicted             : IMB → Intestinal MicroBead
+Actual (Ground Truth) : IMB → ['immunomagnetic beads']
+📏 Cosine Similarity   : 0.285
+🎯 Match               : ❌
+================================================================================
+Index                 : 481
+Acronym               : MVD
+Predicted             : MVD → Mitral Valve Disease
+Actual (Ground Truth) : MVD → ['mitral valve disease']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 482
+Acronym               : WM
+Predicted             : WM → Whole Milk
+Actual (Ground Truth) : WM → ['whole milk']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 483
+Acronym               : LDR
+Predicted             : LDR → Long Distance Runner
+Actual (Ground Truth) : LDR → ['longdistance runners']
+📏 Cosine Similarity   : 0.978
+🎯 Match               : ✔️
+================================================================================
+Index                 : 484
+Acronym               : BDI
+Predicted             : BDI → Beck Depression Inventory
+Actual (Ground Truth) : BDI → ['beck depression inventory']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 485
+Acronym               : ALP
+Predicted             : ALP → Alkaline-philic
+Actual (Ground Truth) : ALP → ['alkaline']
+📏 Cosine Similarity   : 0.880
+🎯 Match               : ✔️
+================================================================================
+Index                 : 486
+Acronym               : CM
+Predicted             : CM → Chorismate Mutase
+Actual (Ground Truth) : CM → ['chorismate mutase']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 487
+Acronym               : DEX
+Predicted             : DEX → Dexamethasone
+Actual (Ground Truth) : DEX → ['hdexamethasone']
+📏 Cosine Similarity   : 0.490
+🎯 Match               : ✔️
+================================================================================
+Index                 : 488
+Acronym               : NYHA
+Predicted             : NYHA → New York Heart Association
+Actual (Ground Truth) : NYHA → ['new york heart association classification']
+📏 Cosine Similarity   : 0.756
+🎯 Match               : ❌
+================================================================================
+Index                 : 489
+Acronym               : PI
+Predicted             : PI → Phosphatidylinositol
+Actual (Ground Truth) : PI → ['hydrolysis of phosphoinositides']
+📏 Cosine Similarity   : 0.474
+🎯 Match               : ❌
+================================================================================
+Index                 : 490
+Acronym               : SLEDAI
+Predicted             : SLEDAI → Systemic Lupus Erythematosus Disease Activity Index
+Actual (Ground Truth) : SLEDAI → ['disease activity']
+📏 Cosine Similarity   : 0.521
+🎯 Match               : ❌
+================================================================================
+Index                 : 491
+Acronym               : PTB
+Predicted             : PTB → Pulmonary Tuberculosis
+Actual (Ground Truth) : PTB → ['pulmonary tb']
+📏 Cosine Similarity   : 0.618
+🎯 Match               : ❌
+================================================================================
+Index                 : 492
+Acronym               : CAS
+Predicted             : CAS → Coronary Angioplasty and Stenting.
+Actual (Ground Truth) : CAS → ['coronary artery spasm']
+📏 Cosine Similarity   : 0.715
+🎯 Match               : ❌
+================================================================================
+Index                 : 493
+Acronym               : sIL-2R
+Predicted             : sIL-2R → Soluble Interleukin-2 Receptor.
+Actual (Ground Truth) : sIL-2R → ['soluble interleukin receptor levels']
+📏 Cosine Similarity   : 0.786
+🎯 Match               : ✔️
+================================================================================
+Index                 : 494
+Acronym               : ECC
+Predicted             : ECC → Early Childhood Caries
+Actual (Ground Truth) : ECC → ['early childhood caries']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 495
+Acronym               : AMI
+Predicted             : AMI → Abbreviation for Amifostine, a broad-spectrum cytoprotective agent.
+Actual (Ground Truth) : AMI → ['amifostine']
+📏 Cosine Similarity   : 0.239
+🎯 Match               : ❌
+================================================================================
+Index                 : 496
+Acronym               : SMRs
+Predicted             : SMRs → Standardized Mortality Ratios
+Actual (Ground Truth) : SMRs → ['standardized mortality ratios']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 497
+Acronym               : UCVA
+Predicted             : UCVA → Uncorrected Visual Acuity.
+Actual (Ground Truth) : UCVA → ['uncorrected']
+📏 Cosine Similarity   : 0.471
+🎯 Match               : ❌
+================================================================================
+Index                 : 498
+Acronym               : RPI
+Predicted             : RPI → Ribosephosphate Isomerase
+Actual (Ground Truth) : RPI → ['ribosephosphate isomerase']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+Index                 : 499
+Acronym               : ARE
+Predicted             : ARE → Antioxidant Responsive Element
+Actual (Ground Truth) : ARE → ['antioxidant responsive element']
+📏 Cosine Similarity   : 1.000
+🎯 Match               : ✔️
+================================================================================
+
+✅ Final Semantic Similarity Accuracy (threshold=0.8): 52.40%
